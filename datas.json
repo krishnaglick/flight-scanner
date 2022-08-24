@@ -1,0 +1,2888 @@
+[
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Tuesday, March 31st 2020, 08:00am",
+    "arrivalTime": "Wednesday, April 1st 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 31st 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Tuesday, March 31st 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Tuesday, March 31st 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 1st 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "6af68f8",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e7fa326a31ab5f92566eb30cb878bee20"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Wednesday, April 1st 2020, 08:00am",
+    "arrivalTime": "Thursday, April 2nd 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 1st 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Wednesday, April 1st 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Wednesday, April 1st 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 2nd 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "d942dfe",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e59655f7c01f4adc874c977ca48a55c75"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Tuesday, April 7th 2020, 08:00am",
+    "arrivalTime": "Wednesday, April 8th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, April 7th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Tuesday, April 7th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Tuesday, April 7th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 8th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "3a5d8ca",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e812ea840d756c61f7a74ca784badd163"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Wednesday, April 8th 2020, 08:00am",
+    "arrivalTime": "Thursday, April 9th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 8th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Wednesday, April 8th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Wednesday, April 8th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 9th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "09b2346",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ef18cc3d08e3be4b83e4b5d0da8b35d1f"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Wednesday, April 15th 2020, 08:00am",
+    "arrivalTime": "Thursday, April 16th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 15th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Wednesday, April 15th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Wednesday, April 15th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 16th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "6369c96",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e7134b05ae9fed1eddaf70d9afafcf54e"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Tuesday, March 31st 2020, 08:15am",
+    "arrivalTime": "Wednesday, April 1st 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 31st 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Tuesday, March 31st 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Tuesday, March 31st 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 1st 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "983ee98",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e7e6675bb853b4c8411000ea709dfc7d1"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Wednesday, April 1st 2020, 08:15am",
+    "arrivalTime": "Thursday, April 2nd 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 1st 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Wednesday, April 1st 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Wednesday, April 1st 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 2nd 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "88cf9a0",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9eec49e3047e71ba5ec00c022302228bfe"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Tuesday, April 7th 2020, 08:15am",
+    "arrivalTime": "Wednesday, April 8th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, April 7th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Tuesday, April 7th 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Tuesday, April 7th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 8th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "8b200d7",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e570d824824aa90f1708f66c32639867d"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Wednesday, April 8th 2020, 08:15am",
+    "arrivalTime": "Thursday, April 9th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 8th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Wednesday, April 8th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Wednesday, April 8th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 9th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "83b4b07",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e954bb6d107ddaa8eeb57fddce1c86ee6"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Wednesday, April 15th 2020, 08:15am",
+    "arrivalTime": "Thursday, April 16th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 15th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Wednesday, April 15th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Wednesday, April 15th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 16th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "9bf5b55",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e2861f8ee1087c1d9fb1f23f2e6151166"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Tuesday, March 31st 2020, 08:20am",
+    "arrivalTime": "Wednesday, April 1st 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 31st 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Tuesday, March 31st 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Tuesday, March 31st 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 1st 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "1b83196",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e2ef598809011e2c1fc15d54a1908bc39"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Tuesday, April 7th 2020, 08:20am",
+    "arrivalTime": "Wednesday, April 8th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, April 7th 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Tuesday, April 7th 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Tuesday, April 7th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 8th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "80ffbb3",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ece266afe54ad1e714a53be734ada5585"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Wednesday, April 8th 2020, 08:15am",
+    "arrivalTime": "Thursday, April 9th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 8th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Wednesday, April 8th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Wednesday, April 8th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 9th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "efdee75",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9eacf198bf27805aea4f426a1aa504a352"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Wednesday, April 15th 2020, 08:15am",
+    "arrivalTime": "Thursday, April 16th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 15th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Wednesday, April 15th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Wednesday, April 15th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 16th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "08f4a43",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9efe83d3a79586bf6a1841dba3433d38cf"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 55 Minutes",
+    "durationSeconds": 64500,
+    "departureTime": "Tuesday, March 10th 2020, 08:00am",
+    "arrivalTime": "Wednesday, March 11th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 36 Minutes",
+        "durationSeconds": 12960,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 10th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Tuesday, March 10th 2020, 10:36am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Tuesday, March 10th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 11th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "54be559",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e2b5a1e586e9478e1760a1bb1d9e8d817"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 55 Minutes",
+    "durationSeconds": 64500,
+    "departureTime": "Wednesday, March 11th 2020, 08:00am",
+    "arrivalTime": "Thursday, March 12th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 36 Minutes",
+        "durationSeconds": 12960,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 11th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Wednesday, March 11th 2020, 10:36am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Wednesday, March 11th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 12th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "2d5853d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9eac58d71a4aee819be12fa375421b19e4"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 55 Minutes",
+    "durationSeconds": 64500,
+    "departureTime": "Wednesday, March 18th 2020, 08:00am",
+    "arrivalTime": "Thursday, March 19th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 18th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Wednesday, March 18th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Wednesday, March 18th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 19th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "685cdaf",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9edeba372de88e1344f53ada0d7eb1097a"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "17 Hours 55 Minutes",
+    "durationSeconds": 64500,
+    "departureTime": "Tuesday, March 24th 2020, 08:00am",
+    "arrivalTime": "Wednesday, March 25th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 24th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Tuesday, March 24th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Tuesday, March 24th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 25th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "9eac896",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ede8a80b533c3109cdba7e946602ad83c"
+  },
+  {
+    "price": "$1080.35",
+    "price_pennies": 108035,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Wednesday, March 18th 2020, 07:15am",
+    "arrivalTime": "Thursday, March 19th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA668",
+        "duration": "2 Hours 49 Minutes",
+        "durationSeconds": 10140,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 18th 2020, 07:15am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Wednesday, March 18th 2020, 09:04am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 30 Minutes",
+        "durationSeconds": 48600,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Wednesday, March 18th 2020, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 19th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "a393963",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e87bc1617dc9976e8666f792af9aea917"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "18 Hours 40 Minutes",
+    "durationSeconds": 67200,
+    "departureTime": "Tuesday, March 17th 2020, 07:45am",
+    "arrivalTime": "Wednesday, March 18th 2020, 03:25pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA880",
+        "duration": "5 Hours 17 Minutes",
+        "durationSeconds": 19020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 17th 2020, 07:45am",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Tuesday, March 17th 2020, 10:02am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA27",
+        "duration": "12 Hours ",
+        "durationSeconds": 43200,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Tuesday, March 17th 2020, 11:25am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 18th 2020, 03:25pm"
+      }
+    ],
+    "flight_key": "57db681",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ed631641deac689dd7293ff6f79879de7"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "18 Hours 40 Minutes",
+    "durationSeconds": 67200,
+    "departureTime": "Tuesday, March 24th 2020, 07:45am",
+    "arrivalTime": "Wednesday, March 25th 2020, 03:25pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA880",
+        "duration": "5 Hours 17 Minutes",
+        "durationSeconds": 19020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 24th 2020, 07:45am",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Tuesday, March 24th 2020, 10:02am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA27",
+        "duration": "12 Hours ",
+        "durationSeconds": 43200,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Tuesday, March 24th 2020, 11:25am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 25th 2020, 03:25pm"
+      }
+    ],
+    "flight_key": "3b6a72f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e78406861008ce38e615723b802c165fb"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Thursday, April 2nd 2020, 08:00am",
+    "arrivalTime": "Friday, April 3rd 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 2nd 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Thursday, April 2nd 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Thursday, April 2nd 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 3rd 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "5af8eb9",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011ef2d4a5bfa5f5fd0dd1c20a7ea1703ad"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Sunday, April 5th 2020, 08:00am",
+    "arrivalTime": "Monday, April 6th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 5th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Sunday, April 5th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Sunday, April 5th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 6th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "d243843",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e0868046040d9c51983ce61120f4c9250"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Monday, April 6th 2020, 08:00am",
+    "arrivalTime": "Tuesday, April 7th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 6th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Monday, April 6th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Monday, April 6th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 7th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "5d6a148",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e450f48091f3949bd27c4922974227477"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Thursday, April 9th 2020, 08:00am",
+    "arrivalTime": "Friday, April 10th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 9th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Thursday, April 9th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Thursday, April 9th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 10th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "5c0f270",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120111e875459bd00f51603c5a5237f999d30"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Sunday, April 12th 2020, 08:00am",
+    "arrivalTime": "Monday, April 13th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 12th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Sunday, April 12th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Sunday, April 12th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 13th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "d215d07",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9edf287478ef2dac6bdc55667c191880e4"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Monday, April 13th 2020, 08:00am",
+    "arrivalTime": "Tuesday, April 14th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 13th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Monday, April 13th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Monday, April 13th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 14th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "76589cf",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e7932ea86a69ea03c0a8c478824c1420d"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Thursday, April 16th 2020, 08:00am",
+    "arrivalTime": "Friday, April 17th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 16th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Thursday, April 16th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Thursday, April 16th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 17th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "20c9a4e",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120117eb16d3f8ec24b7a3b5a0d28062151c8"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "19 Hours 10 Minutes",
+    "durationSeconds": 69000,
+    "departureTime": "Wednesday, March 11th 2020, 06:45am",
+    "arrivalTime": "Thursday, March 12th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL847",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 11th 2020, 06:45am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Wednesday, March 11th 2020, 09:17am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Wednesday, March 11th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 12th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "9449c8a",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e6f69e295eb258894656fee7346066425"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "19 Hours 10 Minutes",
+    "durationSeconds": 69000,
+    "departureTime": "Wednesday, March 18th 2020, 06:45am",
+    "arrivalTime": "Thursday, March 19th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL847",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 18th 2020, 06:45am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Wednesday, March 18th 2020, 09:22am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Wednesday, March 18th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 19th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "10929b8",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e2b0e36596c1873ac294f4a5c87020912"
+  },
+  {
+    "price": "$1079.85",
+    "price_pennies": 107985,
+    "duration": "19 Hours 10 Minutes",
+    "durationSeconds": 69000,
+    "departureTime": "Tuesday, March 24th 2020, 06:45am",
+    "arrivalTime": "Wednesday, March 25th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL847",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 24th 2020, 06:45am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Tuesday, March 24th 2020, 09:22am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Tuesday, March 24th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 25th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "1cdfea7",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e8892ddb3fbb7de4cc6d451396fe50e4e"
+  },
+  {
+    "price": "$1105.35",
+    "price_pennies": 110535,
+    "duration": "16 Hours 48 Minutes",
+    "durationSeconds": 60480,
+    "departureTime": "Thursday, March 12th 2020, 09:42am",
+    "arrivalTime": "Friday, March 13th 2020, 03:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL3025",
+        "duration": "2 Hours 41 Minutes",
+        "durationSeconds": 9660,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 12th 2020, 09:42am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Thursday, March 12th 2020, 12:23pm"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours 17 Minutes",
+        "durationSeconds": 47820,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Thursday, March 12th 2020, 01:13pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 13th 2020, 03:30pm"
+      }
+    ],
+    "flight_key": "471dd60",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b21201108e8f558301038c9d3e985956eb418a4"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Sunday, March 29th 2020, 08:15am",
+    "arrivalTime": "Monday, March 30th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 29th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Sunday, March 29th 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Sunday, March 29th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 30th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "399a1be",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e9fa39230200230d6f9192702513b314f"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Monday, March 30th 2020, 08:15am",
+    "arrivalTime": "Tuesday, March 31st 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 30th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Monday, March 30th 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Monday, March 30th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 31st 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "ff00437",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e4529a5a3847abbbcaf71fdb427dc4129"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Sunday, April 5th 2020, 08:15am",
+    "arrivalTime": "Monday, April 6th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 5th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Sunday, April 5th 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Sunday, April 5th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 6th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "3d6fbb4",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ed1970a3f715727e3980fe3e83c043488"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Monday, April 6th 2020, 08:15am",
+    "arrivalTime": "Tuesday, April 7th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 6th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Monday, April 6th 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Monday, April 6th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 7th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "c499525",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e0abad2108f94fee44bef5fc6ff0d1770"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Thursday, April 9th 2020, 08:15am",
+    "arrivalTime": "Friday, April 10th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 9th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Thursday, April 9th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Thursday, April 9th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 10th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "7009af0",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b21201123ba895d55effcf2dbbd09ce366bec08"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Sunday, April 12th 2020, 08:15am",
+    "arrivalTime": "Monday, April 13th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 12th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Sunday, April 12th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Sunday, April 12th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 13th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "4a0b5ba",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ec83f74d4609142e8a99164119838d443"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Monday, April 13th 2020, 08:15am",
+    "arrivalTime": "Tuesday, April 14th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 13th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Monday, April 13th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Monday, April 13th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 14th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "2d46588",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e9304c07b979e419db8612fdb47dc3afc"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Thursday, April 16th 2020, 08:15am",
+    "arrivalTime": "Friday, April 17th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 16th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Thursday, April 16th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Thursday, April 16th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 17th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "cd4a799",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011de4fa8c978e139d8e2fa9228c8d1bee5"
+  },
+  {
+    "price": "$1105.35",
+    "price_pennies": 110535,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Monday, March 16th 2020, 09:00am",
+    "arrivalTime": "Tuesday, March 17th 2020, 03:00pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1110",
+        "duration": "2 Hours 58 Minutes",
+        "durationSeconds": 10680,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 16th 2020, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, March 16th 2020, 10:58am"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL9",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, March 16th 2020, 11:40am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 17th 2020, 03:00pm"
+      }
+    ],
+    "flight_key": "06bca52",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e2f00781fd7f71fce29246771b1c8160f"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Sunday, March 29th 2020, 08:20am",
+    "arrivalTime": "Monday, March 30th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 29th 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Sunday, March 29th 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Sunday, March 29th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 30th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "7ce854c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ee344300415382d31e67f8ebab2a96208"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Monday, March 30th 2020, 08:20am",
+    "arrivalTime": "Tuesday, March 31st 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 30th 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Monday, March 30th 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Monday, March 30th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 31st 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "64bca7f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e950428f017438b7e8ab962d2c98e4f1e"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Sunday, April 5th 2020, 08:20am",
+    "arrivalTime": "Monday, April 6th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 5th 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Sunday, April 5th 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Sunday, April 5th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 6th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "d06e951",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e423ab38df7649bac88b0b2888152147b"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Monday, April 6th 2020, 08:20am",
+    "arrivalTime": "Tuesday, April 7th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 6th 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Monday, April 6th 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Monday, April 6th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 7th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "8a236d3",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ef2f790f056f1967fc4d336d2126f4137"
+  },
+  {
+    "price": "$1105.35",
+    "price_pennies": 110535,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Thursday, March 12th 2020, 08:20am",
+    "arrivalTime": "Friday, March 13th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 12th 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Thursday, March 12th 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 28 Minutes",
+        "durationSeconds": 52080,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Thursday, March 12th 2020, 11:02am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 13th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "b3d9fe5",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120113161d59cb4b869b5c5d86b2e907c6efb"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Thursday, April 9th 2020, 08:15am",
+    "arrivalTime": "Friday, April 10th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 9th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Thursday, April 9th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Thursday, April 9th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 10th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "9f5358d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011832a61a7757f3874c8cbba5639072712"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Sunday, April 12th 2020, 08:15am",
+    "arrivalTime": "Monday, April 13th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 12th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Sunday, April 12th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Sunday, April 12th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 13th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "7c6a504",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ea8a36ff5e9a1403275b9ae715c94427a"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Monday, April 13th 2020, 08:15am",
+    "arrivalTime": "Tuesday, April 14th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 13th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Monday, April 13th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Monday, April 13th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 14th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "7d6c881",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9eea9ead5627dd8c6a647495d353bf379f"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Thursday, April 16th 2020, 08:15am",
+    "arrivalTime": "Friday, April 17th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 16th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Thursday, April 16th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Thursday, April 16th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 17th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "a3e91ca",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b21201186a84f6c0bb1aacadf39870b24c6a09b"
+  },
+  {
+    "price": "$1108.55",
+    "price_pennies": 110855,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Monday, March 23rd 2020, 09:00am",
+    "arrivalTime": "Tuesday, March 24th 2020, 03:00pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1110",
+        "duration": "2 Hours 58 Minutes",
+        "durationSeconds": 10680,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 23rd 2020, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, March 23rd 2020, 10:58am"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL9",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, March 23rd 2020, 11:40am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 24th 2020, 03:00pm"
+      }
+    ],
+    "flight_key": "6dc423c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e923ca342c74cf8c4c28433f0ad2159c9"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 25 Minutes",
+    "durationSeconds": 62700,
+    "departureTime": "Sunday, March 29th 2020, 09:30am",
+    "arrivalTime": "Monday, March 30th 2020, 03:55pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA2075",
+        "duration": "2 Hours 48 Minutes",
+        "durationSeconds": 10080,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 29th 2020, 09:30am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Sunday, March 29th 2020, 11:18am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Sunday, March 29th 2020, 12:20pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 30th 2020, 03:55pm"
+      }
+    ],
+    "flight_key": "27cae60",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e7d1bcc3b6c3d7790ef36b61deb19b914"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 25 Minutes",
+    "durationSeconds": 62700,
+    "departureTime": "Monday, March 30th 2020, 09:30am",
+    "arrivalTime": "Tuesday, March 31st 2020, 03:55pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA2075",
+        "duration": "2 Hours 48 Minutes",
+        "durationSeconds": 10080,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 30th 2020, 09:30am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Monday, March 30th 2020, 11:18am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Monday, March 30th 2020, 12:20pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 31st 2020, 03:55pm"
+      }
+    ],
+    "flight_key": "7f2598d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e2c97bdd267099f3c51418a8207bacf9b"
+  },
+  {
+    "price": "$1111.75",
+    "price_pennies": 111175,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Sunday, March 22nd 2020, 09:00am",
+    "arrivalTime": "Monday, March 23rd 2020, 03:00pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1110",
+        "duration": "2 Hours 58 Minutes",
+        "durationSeconds": 10680,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 22nd 2020, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Sunday, March 22nd 2020, 10:58am"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL9",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Sunday, March 22nd 2020, 11:40am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 23rd 2020, 03:00pm"
+      }
+    ],
+    "flight_key": "60e0b1b",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ea9ddddf824a4316e23f6e01bba16185d"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 55 Minutes",
+    "durationSeconds": 64500,
+    "departureTime": "Sunday, March 15th 2020, 08:00am",
+    "arrivalTime": "Monday, March 16th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 15th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Sunday, March 15th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Sunday, March 15th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 16th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "9a9f1ef",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e029b652f3c3b453c48dd0762071c4b2e"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 55 Minutes",
+    "durationSeconds": 64500,
+    "departureTime": "Monday, March 16th 2020, 08:00am",
+    "arrivalTime": "Tuesday, March 17th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 16th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Monday, March 16th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Monday, March 16th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 17th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "298fadb",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ed13a5684f0266988cd611a0aaf8d3e4b"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "17 Hours 55 Minutes",
+    "durationSeconds": 64500,
+    "departureTime": "Sunday, March 22nd 2020, 08:00am",
+    "arrivalTime": "Monday, March 23rd 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 22nd 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Sunday, March 22nd 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Sunday, March 22nd 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 23rd 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "5c203b3",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9ef559368c33f3df5860552f442efbb57e"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "18 Hours 40 Minutes",
+    "durationSeconds": 67200,
+    "departureTime": "Thursday, March 12th 2020, 07:45am",
+    "arrivalTime": "Friday, March 13th 2020, 03:25pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA880",
+        "duration": "5 Hours 17 Minutes",
+        "durationSeconds": 19020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 12th 2020, 07:45am",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Thursday, March 12th 2020, 10:02am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA27",
+        "duration": "12 Hours ",
+        "durationSeconds": 43200,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Thursday, March 12th 2020, 11:25am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, March 13th 2020, 03:25pm"
+      }
+    ],
+    "flight_key": "f628645",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120115a6c78dc725ca13f0fbfad21bb3deddd"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Friday, April 3rd 2020, 08:00am",
+    "arrivalTime": "Saturday, April 4th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 3rd 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Friday, April 3rd 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Friday, April 3rd 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 4th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "c908918",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011789e2fd34b52f0f4b636c628bd408c95"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Friday, April 10th 2020, 08:00am",
+    "arrivalTime": "Saturday, April 11th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 10th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Friday, April 10th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Friday, April 10th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 11th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "a11d729",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b21201107826445e6bbbd3ee627ace3ad1564ea"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "16 Hours 35 Minutes",
+    "durationSeconds": 59700,
+    "departureTime": "Friday, April 17th 2020, 08:00am",
+    "arrivalTime": "Saturday, April 18th 2020, 01:35pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1486",
+        "duration": "3 Hours 32 Minutes",
+        "durationSeconds": 12720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 17th 2020, 08:00am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Friday, April 17th 2020, 10:32am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 15 Minutes",
+        "durationSeconds": 44100,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Friday, April 17th 2020, 11:20am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 18th 2020, 01:35pm"
+      }
+    ],
+    "flight_key": "6e69ccc",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b21201102782aa3fb7540d165ed10fe2f19694e"
+  },
+  {
+    "price": "$1105.35",
+    "price_pennies": 110535,
+    "duration": "19 Hours ",
+    "durationSeconds": 68400,
+    "departureTime": "Thursday, March 19th 2020, 07:45am",
+    "arrivalTime": "Friday, March 20th 2020, 03:45pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA880",
+        "duration": "5 Hours 17 Minutes",
+        "durationSeconds": 19020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 19th 2020, 07:45am",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Thursday, March 19th 2020, 10:02am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA169",
+        "duration": "11 Hours 55 Minutes",
+        "durationSeconds": 42900,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Thursday, March 19th 2020, 11:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 20th 2020, 03:45pm"
+      }
+    ],
+    "flight_key": "95cc030",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120115581da85e03cf2598e642f7309b48a6d"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "19 Hours 10 Minutes",
+    "durationSeconds": 69000,
+    "departureTime": "Sunday, March 15th 2020, 06:45am",
+    "arrivalTime": "Monday, March 16th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL847",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 15th 2020, 06:45am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Sunday, March 15th 2020, 09:22am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Sunday, March 15th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 16th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "d56e3d0",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e97d2c71debaccbdcb1533a11c553e041"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "19 Hours 10 Minutes",
+    "durationSeconds": 69000,
+    "departureTime": "Monday, March 16th 2020, 06:45am",
+    "arrivalTime": "Tuesday, March 17th 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL847",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 16th 2020, 06:45am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Monday, March 16th 2020, 09:22am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Monday, March 16th 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 17th 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "742195a",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e66aa3aa0023513788966174ff5137fe7"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "19 Hours 10 Minutes",
+    "durationSeconds": 69000,
+    "departureTime": "Sunday, March 22nd 2020, 06:45am",
+    "arrivalTime": "Monday, March 23rd 2020, 02:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL847",
+        "duration": "3 Hours 37 Minutes",
+        "durationSeconds": 13020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 22nd 2020, 06:45am",
+        "arrivingAt": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "arrivalTime": "Sunday, March 22nd 2020, 09:22am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL121",
+        "duration": "12 Hours 44 Minutes",
+        "durationSeconds": 45840,
+        "departingFrom": "Minneapolis St Paul Intl, MSP, Minneapolis, United States",
+        "departureTime": "Sunday, March 22nd 2020, 12:11pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 23rd 2020, 02:55pm"
+      }
+    ],
+    "flight_key": "c6bc10c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e446a8663f0e35a2dce55d5dad506841c"
+  },
+  {
+    "price": "$1130.35",
+    "price_pennies": 113035,
+    "duration": "16 Hours 48 Minutes",
+    "durationSeconds": 60480,
+    "departureTime": "Friday, March 13th 2020, 09:42am",
+    "arrivalTime": "Saturday, March 14th 2020, 03:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL3025",
+        "duration": "2 Hours 41 Minutes",
+        "durationSeconds": 9660,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 13th 2020, 09:42am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Friday, March 13th 2020, 12:23pm"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours 17 Minutes",
+        "durationSeconds": 47820,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Friday, March 13th 2020, 01:13pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 14th 2020, 03:30pm"
+      }
+    ],
+    "flight_key": "64e4e9e",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011f783c2caa6623ef5224536470e898a09"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Friday, April 3rd 2020, 08:15am",
+    "arrivalTime": "Saturday, April 4th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 3rd 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Friday, April 3rd 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Friday, April 3rd 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 4th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "4035e7c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011a69dc0e3989e0b954265f9024bb5bba4"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Friday, April 10th 2020, 08:15am",
+    "arrivalTime": "Saturday, April 11th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 10th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Friday, April 10th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Friday, April 10th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 11th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "c0912f6",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120118370357cb56aa75d022bb609d890d605"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "17 Hours ",
+    "durationSeconds": 61200,
+    "departureTime": "Friday, April 17th 2020, 08:15am",
+    "arrivalTime": "Saturday, April 18th 2020, 02:15pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 38 Minutes",
+        "durationSeconds": 9480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 17th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Friday, April 17th 2020, 10:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours ",
+        "durationSeconds": 46800,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Friday, April 17th 2020, 12:15pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 18th 2020, 02:15pm"
+      }
+    ],
+    "flight_key": "9ded469",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120116c91eedc10ae0c66931eb90bedc31a89"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Friday, April 3rd 2020, 08:20am",
+    "arrivalTime": "Saturday, April 4th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 3rd 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Friday, April 3rd 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Friday, April 3rd 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 4th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "a4b4f54",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011496d9d1a2b1ef8a8f29f31eea0bd4432"
+  },
+  {
+    "price": "$1108.55",
+    "price_pennies": 110855,
+    "duration": "19 Hours 15 Minutes",
+    "durationSeconds": 69300,
+    "departureTime": "Thursday, March 19th 2020, 07:45am",
+    "arrivalTime": "Friday, March 20th 2020, 04:00pm",
+    "legs": [
+      {
+        "airline": "Alaska Airlines",
+        "flightCode": "AS9",
+        "duration": "6 Hours ",
+        "durationSeconds": 21600,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 19th 2020, 07:45am",
+        "arrivingAt": "Seattle Tacoma Intl, SEA, Seattle, United States",
+        "arrivalTime": "Thursday, March 19th 2020, 10:45am"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL67",
+        "duration": "10 Hours 30 Minutes",
+        "durationSeconds": 37800,
+        "departingFrom": "Seattle Tacoma Intl, SEA, Seattle, United States",
+        "departureTime": "Thursday, March 19th 2020, 01:30pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 20th 2020, 04:00pm"
+      }
+    ],
+    "flight_key": "cbac8d6",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca56029d8a4bf2c0267bb12fda70daca5bf68bd31cb2ccf5c5179af62af6d836f11"
+  },
+  {
+    "price": "$1108.55",
+    "price_pennies": 110855,
+    "duration": "19 Hours 15 Minutes",
+    "durationSeconds": 69300,
+    "departureTime": "Thursday, March 26th 2020, 07:45am",
+    "arrivalTime": "Friday, March 27th 2020, 04:00pm",
+    "legs": [
+      {
+        "airline": "Alaska Airlines",
+        "flightCode": "AS9",
+        "duration": "6 Hours ",
+        "durationSeconds": 21600,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 26th 2020, 07:45am",
+        "arrivingAt": "Seattle Tacoma Intl, SEA, Seattle, United States",
+        "arrivalTime": "Thursday, March 26th 2020, 10:45am"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL67",
+        "duration": "10 Hours 30 Minutes",
+        "durationSeconds": 37800,
+        "departingFrom": "Seattle Tacoma Intl, SEA, Seattle, United States",
+        "departureTime": "Thursday, March 26th 2020, 01:30pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 27th 2020, 04:00pm"
+      }
+    ],
+    "flight_key": "28444b8",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca56029d8a4bf2c0267bb12fda70daca5bf3de478285cfdc60203462452cce2155f"
+  },
+  {
+    "price": "$1130.35",
+    "price_pennies": 113035,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Friday, March 13th 2020, 08:20am",
+    "arrivalTime": "Saturday, March 14th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 39 Minutes",
+        "durationSeconds": 5940,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 13th 2020, 08:20am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Friday, March 13th 2020, 09:59am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 28 Minutes",
+        "durationSeconds": 52080,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Friday, March 13th 2020, 11:02am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 14th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "fdba48d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011b8d435b9b92733ad20521ac9888ac80d"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Friday, April 10th 2020, 08:15am",
+    "arrivalTime": "Saturday, April 11th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 10th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Friday, April 10th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Friday, April 10th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 11th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "ae35465",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011de314dbd7cfaf4c649faa0d016354c5d"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Friday, April 17th 2020, 08:15am",
+    "arrivalTime": "Saturday, April 18th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL866",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 17th 2020, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Friday, April 17th 2020, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Friday, April 17th 2020, 11:15am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 18th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "b9da351",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011bd96b2a5deac9ab8f52ec9d40bc89caf"
+  },
+  {
+    "price": "$1135.37",
+    "price_pennies": 113537,
+    "duration": "16 Hours 48 Minutes",
+    "durationSeconds": 60480,
+    "departureTime": "Wednesday, March 25th 2020, 09:42am",
+    "arrivalTime": "Thursday, March 26th 2020, 09:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL3025",
+        "duration": "2 Hours 41 Minutes",
+        "durationSeconds": 9660,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 25th 2020, 09:42am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Wednesday, March 25th 2020, 12:23pm"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours 17 Minutes",
+        "durationSeconds": 47820,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Wednesday, March 25th 2020, 01:13pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 26th 2020, 03:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH921",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 26th 2020, 06:50pm",
+        "arrivingAt": "Pudong, PVG, Shanghai, China",
+        "arrivalTime": "Thursday, March 26th 2020, 09:30pm"
+      }
+    ],
+    "flight_key": "396325f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5a01eb771bb206237f338ca0d20daab831da35bdae990684ca1b1f88a9031f40ad80c1bc9b9558613a66cb143bb967032e9ad844c335c6e6d139a8558654c7163ccbb18d4ede7b71d3f223ee54be5c89e"
+  },
+  {
+    "price": "$1104.85",
+    "price_pennies": 110485,
+    "duration": "20 Hours 15 Minutes",
+    "durationSeconds": 72900,
+    "departureTime": "Sunday, March 15th 2020, 06:05am",
+    "arrivalTime": "Monday, March 16th 2020, 03:20pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2323",
+        "duration": "5 Hours 42 Minutes",
+        "durationSeconds": 20520,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 15th 2020, 06:05am",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Sunday, March 15th 2020, 08:47am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL7",
+        "duration": "11 Hours 53 Minutes",
+        "durationSeconds": 42780,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Sunday, March 15th 2020, 11:27am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, March 16th 2020, 03:20pm"
+      }
+    ],
+    "flight_key": "f3718a6",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9eb9520122882176bf2e5d9965dd8e2805"
+  },
+  {
+    "price": "$1107.05",
+    "price_pennies": 110705,
+    "duration": "20 Hours 25 Minutes",
+    "durationSeconds": 73500,
+    "departureTime": "Thursday, March 26th 2020, 07:30am",
+    "arrivalTime": "Friday, March 27th 2020, 04:55pm",
+    "legs": [
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC1639",
+        "duration": "3 Hours ",
+        "durationSeconds": 10800,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 26th 2020, 07:30am",
+        "arrivingAt": "Pierre Elliott Trudeau Intl, YUL, Montreal, Canada",
+        "arrivalTime": "Thursday, March 26th 2020, 10:30am"
+      },
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC411",
+        "duration": "1 Hour 34 Minutes",
+        "durationSeconds": 5640,
+        "departingFrom": "Pierre Elliott Trudeau Intl, YUL, Montreal, Canada",
+        "departureTime": "Thursday, March 26th 2020, 12:00pm",
+        "arrivingAt": "Lester B Pearson Intl, YYZ, Toronto, Canada",
+        "arrivalTime": "Thursday, March 26th 2020, 01:34pm"
+      },
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC1",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Lester B Pearson Intl, YYZ, Toronto, Canada",
+        "departureTime": "Thursday, March 26th 2020, 02:35pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, March 27th 2020, 04:55pm"
+      }
+    ],
+    "flight_key": "e4438e6",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca591633d4167e813a550fde8b4a6be0798e6d32fa623317f06d336ffbec6a30b0d"
+  },
+  {
+    "price": "$1130.35",
+    "price_pennies": 113035,
+    "duration": "18 Hours 20 Minutes",
+    "durationSeconds": 66000,
+    "departureTime": "Friday, March 13th 2020, 07:10am",
+    "arrivalTime": "Saturday, March 14th 2020, 02:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2092",
+        "duration": "1 Hour 43 Minutes",
+        "durationSeconds": 6180,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 13th 2020, 07:10am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Friday, March 13th 2020, 08:53am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 28 Minutes",
+        "durationSeconds": 52080,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Friday, March 13th 2020, 11:02am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 14th 2020, 02:30pm"
+      }
+    ],
+    "flight_key": "c207198",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b2120110adda9fa91cab2b5fd31310b6969e390"
+  },
+  {
+    "price": "$1107.05",
+    "price_pennies": 110705,
+    "duration": "20 Hours 55 Minutes",
+    "durationSeconds": 75300,
+    "departureTime": "Thursday, March 26th 2020, 07:00am",
+    "arrivalTime": "Friday, March 27th 2020, 04:55pm",
+    "legs": [
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC1671",
+        "duration": "2 Hours 43 Minutes",
+        "durationSeconds": 9780,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 26th 2020, 07:00am",
+        "arrivingAt": "Lester B Pearson Intl, YYZ, Toronto, Canada",
+        "arrivalTime": "Thursday, March 26th 2020, 09:43am"
+      },
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC1",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Lester B Pearson Intl, YYZ, Toronto, Canada",
+        "departureTime": "Thursday, March 26th 2020, 02:35pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, March 27th 2020, 04:55pm"
+      }
+    ],
+    "flight_key": "c95a006",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca514261932b803ff3c39b0885b9fb639f6608cfd0fe8e7482e92bca16e110fca53"
+  },
+  {
+    "price": "$1135.37",
+    "price_pennies": 113537,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Friday, March 20th 2020, 08:15am",
+    "arrivalTime": "Saturday, March 21st 2020, 09:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 20th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Friday, March 20th 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours 17 Minutes",
+        "durationSeconds": 47820,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Friday, March 20th 2020, 01:13pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 21st 2020, 03:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH921",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 21st 2020, 06:50pm",
+        "arrivingAt": "Pudong, PVG, Shanghai, China",
+        "arrivalTime": "Saturday, March 21st 2020, 09:30pm"
+      }
+    ],
+    "flight_key": "412f88a",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5650b40b050cddb21308401f242b9017e976421d79d29fa8f7e03dae730bf7d6ab17e8eee04f9e0f3b1f3adb643b5348c019f175f9701fd76d8281fd5f45ef363"
+  },
+  {
+    "price": "$1135.37",
+    "price_pennies": 113537,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Wednesday, March 25th 2020, 08:15am",
+    "arrivalTime": "Thursday, March 26th 2020, 09:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2518",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 25th 2020, 08:15am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Wednesday, March 25th 2020, 10:57am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "13 Hours 17 Minutes",
+        "durationSeconds": 47820,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Wednesday, March 25th 2020, 01:13pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 26th 2020, 03:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH921",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 26th 2020, 06:50pm",
+        "arrivingAt": "Pudong, PVG, Shanghai, China",
+        "arrivalTime": "Thursday, March 26th 2020, 09:30pm"
+      }
+    ],
+    "flight_key": "7f4d354",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5a01eb771bb206237f338ca0d20daab831da35bdae990684ca1b1f88a9031f40ad80c1bc9b9558613a66cb143bb967032a908b04156f80ca72bc167742d851d0eccbb18d4ede7b71d3f223ee54be5c89e"
+  },
+  {
+    "price": "$1106.35",
+    "price_pennies": 110635,
+    "duration": "21 Hours 25 Minutes",
+    "durationSeconds": 77100,
+    "departureTime": "Monday, March 23rd 2020, 06:45am",
+    "arrivalTime": "Tuesday, March 24th 2020, 05:10pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1896",
+        "duration": "1 Hour 48 Minutes",
+        "durationSeconds": 6480,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 23rd 2020, 06:45am",
+        "arrivingAt": "Charlotte Douglas Intl, CLT, Charlotte, United States",
+        "arrivalTime": "Monday, March 23rd 2020, 08:33am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA388",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Charlotte Douglas Intl, CLT, Charlotte, United States",
+        "departureTime": "Monday, March 23rd 2020, 09:55am",
+        "arrivingAt": "John F Kennedy Intl, JFK, New York, United States",
+        "arrivalTime": "Monday, March 23rd 2020, 12:01pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL5",
+        "duration": "14 Hours 20 Minutes",
+        "durationSeconds": 51600,
+        "departingFrom": "John F Kennedy Intl, JFK, New York, United States",
+        "departureTime": "Monday, March 23rd 2020, 01:50pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 24th 2020, 05:10pm"
+      }
+    ],
+    "flight_key": "a6c4505",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54214186ffb653ab090c71ddd1e406d0e5590a69beb76e2d4057b65d2fe054d48"
+  },
+  {
+    "price": "$1133.55",
+    "price_pennies": 113355,
+    "duration": "19 Hours ",
+    "durationSeconds": 68400,
+    "departureTime": "Friday, March 27th 2020, 08:00am",
+    "arrivalTime": "Saturday, March 28th 2020, 04:00pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1024",
+        "duration": "2 Hours 49 Minutes",
+        "durationSeconds": 10140,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 27th 2020, 08:00am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Friday, March 27th 2020, 09:49am"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL11",
+        "duration": "13 Hours 45 Minutes",
+        "durationSeconds": 49500,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Friday, March 27th 2020, 12:15pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 28th 2020, 04:00pm"
+      }
+    ],
+    "flight_key": "a883807",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5acfc4f8cffe3796ee51af0949b212011b37fb3ba8b6ff22d58ee7f7ef6b18d7a"
+  },
+  {
+    "price": "$1135.37",
+    "price_pennies": 113537,
+    "duration": "18 Hours 55 Minutes",
+    "durationSeconds": 68100,
+    "departureTime": "Wednesday, March 25th 2020, 07:00am",
+    "arrivalTime": "Thursday, March 26th 2020, 09:30pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1573",
+        "duration": "6 Hours 37 Minutes",
+        "durationSeconds": 23820,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 25th 2020, 07:00am",
+        "arrivingAt": "Seattle Tacoma Intl, SEA, Seattle, United States",
+        "arrivalTime": "Wednesday, March 25th 2020, 10:37am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL167",
+        "duration": "10 Hours 26 Minutes",
+        "durationSeconds": 37560,
+        "departingFrom": "Seattle Tacoma Intl, SEA, Seattle, United States",
+        "departureTime": "Wednesday, March 25th 2020, 12:29pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 26th 2020, 02:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH921",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 26th 2020, 06:50pm",
+        "arrivingAt": "Pudong, PVG, Shanghai, China",
+        "arrivalTime": "Thursday, March 26th 2020, 09:30pm"
+      }
+    ],
+    "flight_key": "bf6e2c3",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5a01eb771bb206237f338ca0d20daab831da35bdae990684ca1b1f88a9031f40ad80c1bc9b9558613a66cb143bb967032cf6aa00e1b90c5f416e515c4d6b0b3e4ccbb18d4ede7b71d3f223ee54be5c89e"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "19 Hours 30 Minutes",
+    "durationSeconds": 70200,
+    "departureTime": "Saturday, April 18th 2020, 08:15pm",
+    "arrivalTime": "Monday, April 20th 2020, 04:45am",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA2757",
+        "duration": "5 Hours 17 Minutes",
+        "durationSeconds": 19020,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, April 18th 2020, 08:15pm",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Saturday, April 18th 2020, 10:32pm"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA169",
+        "duration": "11 Hours 50 Minutes",
+        "durationSeconds": 42600,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Sunday, April 19th 2020, 12:55am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 20th 2020, 04:45am"
+      }
+    ],
+    "flight_key": "c692a59",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e6f382a9476429c90e81ed09a5d98603d"
+  },
+  {
+    "price": "$1107.85",
+    "price_pennies": 110785,
+    "duration": "21 Hours 50 Minutes",
+    "durationSeconds": 78600,
+    "departureTime": "Monday, March 23rd 2020, 06:20am",
+    "arrivalTime": "Tuesday, March 24th 2020, 05:10pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1832",
+        "duration": "2 Hours 30 Minutes",
+        "durationSeconds": 9000,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 23rd 2020, 06:20am",
+        "arrivingAt": "Philadelphia Intl, PHL, Philadelphia, United States",
+        "arrivalTime": "Monday, March 23rd 2020, 08:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA3594",
+        "duration": "1 Hour 19 Minutes",
+        "durationSeconds": 4740,
+        "departingFrom": "Philadelphia Intl, PHL, Philadelphia, United States",
+        "departureTime": "Monday, March 23rd 2020, 10:26am",
+        "arrivingAt": "John F Kennedy Intl, JFK, New York, United States",
+        "arrivalTime": "Monday, March 23rd 2020, 11:45am"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL5",
+        "duration": "14 Hours 20 Minutes",
+        "durationSeconds": 51600,
+        "departingFrom": "John F Kennedy Intl, JFK, New York, United States",
+        "departureTime": "Monday, March 23rd 2020, 01:50pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 24th 2020, 05:10pm"
+      }
+    ],
+    "flight_key": "8812b89",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e8bee5677bc246550ee3596c766a5372c"
+  },
+  {
+    "price": "$1129.85",
+    "price_pennies": 112985,
+    "duration": "23 Hours 30 Minutes",
+    "durationSeconds": 84600,
+    "departureTime": "Saturday, April 18th 2020, 04:15pm",
+    "arrivalTime": "Monday, April 20th 2020, 04:45am",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA219",
+        "duration": "5 Hours 26 Minutes",
+        "durationSeconds": 19560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, April 18th 2020, 04:15pm",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Saturday, April 18th 2020, 06:41pm"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA169",
+        "duration": "11 Hours 50 Minutes",
+        "durationSeconds": 42600,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Sunday, April 19th 2020, 12:55am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Monday, April 20th 2020, 04:45am"
+      }
+    ],
+    "flight_key": "96578de",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca54d5b627a7cde605c9e8151e0d1befe9e42cf498b4b7c71c6844947d64e85df5b"
+  }
+]

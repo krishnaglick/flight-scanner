@@ -1,0 +1,3530 @@
+[
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "17 Hours 39 Minutes",
+    "durationSeconds": 63540,
+    "departureTime": "Tuesday, March 13th 2018, 07:46am",
+    "arrivalTime": "Wednesday, March 14th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 13th 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Tuesday, March 13th 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Tuesday, March 13th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 14th 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 14th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Wednesday, March 14th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "3a0ed2e",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e43160941de41ce4704e1d015b6841755eab2678d"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "17 Hours 39 Minutes",
+    "durationSeconds": 63540,
+    "departureTime": "Wednesday, March 14th 2018, 07:46am",
+    "arrivalTime": "Thursday, March 15th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 14th 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Wednesday, March 14th 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Wednesday, March 14th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 15th 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 15th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Thursday, March 15th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "39e433b",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e43160941c34a6e6c79684eb28330651c39cfaa90"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "17 Hours 39 Minutes",
+    "durationSeconds": 63540,
+    "departureTime": "Monday, March 19th 2018, 07:46am",
+    "arrivalTime": "Tuesday, March 20th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 19th 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Monday, March 19th 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Monday, March 19th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 20th 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Tuesday, March 20th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Tuesday, March 20th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "1a63fae",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e4316094181d20044faf36d027234dd43bc20bf9c"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "17 Hours 39 Minutes",
+    "durationSeconds": 63540,
+    "departureTime": "Tuesday, March 20th 2018, 07:46am",
+    "arrivalTime": "Wednesday, March 21st 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 20th 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Tuesday, March 20th 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Tuesday, March 20th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 21st 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 21st 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Wednesday, March 21st 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "1edbd1d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e431609413a0db51ef7c2b66c8e46311913606af0"
+  },
+  {
+    "price": "$1099.82",
+    "price_pennies": 109982,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Tuesday, March 13th 2018, 09:00am",
+    "arrivalTime": "Wednesday, March 14th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 13th 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Tuesday, March 13th 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Tuesday, March 13th 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 14th 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 14th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Wednesday, March 14th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "32894ea",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca55e9e306f38cb0ebd39d6e2434da4bd9d0caa6d78a3b6f3d8edee4ff2dde15f03"
+  },
+  {
+    "price": "$1099.82",
+    "price_pennies": 109982,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Wednesday, March 14th 2018, 09:00am",
+    "arrivalTime": "Thursday, March 15th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 14th 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Wednesday, March 14th 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Wednesday, March 14th 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 15th 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 15th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Thursday, March 15th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "e47d48a",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca55e9e306f38cb0ebd39d6e2434da4bd9d151273a58eebd791a7e8787085446a1e"
+  },
+  {
+    "price": "$1099.82",
+    "price_pennies": 109982,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Friday, March 16th 2018, 09:00am",
+    "arrivalTime": "Saturday, March 17th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 16th 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Friday, March 16th 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Friday, March 16th 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 17th 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 17th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Saturday, March 17th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "2fba0d5",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca55e9e306f38cb0ebd39d6e2434da4bd9dc2bccd3e0938ccb2321b8e4c14548de8"
+  },
+  {
+    "price": "$1099.82",
+    "price_pennies": 109982,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Monday, March 19th 2018, 09:00am",
+    "arrivalTime": "Tuesday, March 20th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 19th 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, March 19th 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, March 19th 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 20th 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Tuesday, March 20th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Tuesday, March 20th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "158590d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca55e9e306f38cb0ebd39d6e2434da4bd9d309492a0cc20f9d7f0b6723f8692e4dc"
+  },
+  {
+    "price": "$1099.82",
+    "price_pennies": 109982,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Tuesday, March 20th 2018, 09:00am",
+    "arrivalTime": "Wednesday, March 21st 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 20th 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Tuesday, March 20th 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Tuesday, March 20th 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 21st 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 21st 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Wednesday, March 21st 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "c381f9d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca55e9e306f38cb0ebd39d6e2434da4bd9d2d0e88c943e62114f640611e7ea2eda8"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "18 Hours 11 Minutes",
+    "durationSeconds": 65460,
+    "departureTime": "Tuesday, March 13th 2018, 08:34am",
+    "arrivalTime": "Wednesday, March 14th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1938",
+        "duration": "3 Hours 6 Minutes",
+        "durationSeconds": 11160,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 13th 2018, 08:34am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Tuesday, March 13th 2018, 10:40am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA61",
+        "duration": "13 Hours 30 Minutes",
+        "durationSeconds": 48600,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Tuesday, March 13th 2018, 12:15pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 14th 2018, 03:45pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 14th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Wednesday, March 14th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "7703337",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e4316094120696a01da04fa7770a3b98482c8f92b"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "18 Hours 11 Minutes",
+    "durationSeconds": 65460,
+    "departureTime": "Friday, March 16th 2018, 08:34am",
+    "arrivalTime": "Saturday, March 17th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1938",
+        "duration": "3 Hours 6 Minutes",
+        "durationSeconds": 11160,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 16th 2018, 08:34am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Friday, March 16th 2018, 10:40am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA61",
+        "duration": "13 Hours 30 Minutes",
+        "durationSeconds": 48600,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Friday, March 16th 2018, 12:15pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 17th 2018, 03:45pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 17th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Saturday, March 17th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "9283b5b",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e431609413a78bbde0a0609fe8760254bad110a96"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "18 Hours 37 Minutes",
+    "durationSeconds": 67020,
+    "departureTime": "Monday, March 19th 2018, 06:48am",
+    "arrivalTime": "Tuesday, March 20th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA218",
+        "duration": "3 Hours 6 Minutes",
+        "durationSeconds": 11160,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 19th 2018, 06:48am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Monday, March 19th 2018, 08:54am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Monday, March 19th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 20th 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Tuesday, March 20th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Tuesday, March 20th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "422375d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e431609415a7e4f2a4acf76e5e8525aad76237200"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "18 Hours 59 Minutes",
+    "durationSeconds": 68340,
+    "departureTime": "Friday, March 16th 2018, 07:46am",
+    "arrivalTime": "Saturday, March 17th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 16th 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Friday, March 16th 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA61",
+        "duration": "13 Hours 30 Minutes",
+        "durationSeconds": 48600,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Friday, March 16th 2018, 12:15pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 17th 2018, 03:45pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 17th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Saturday, March 17th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "25d7664",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e431609411a703b39f8e3c01a932349822d533cac"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "19 Hours 25 Minutes",
+    "durationSeconds": 69900,
+    "departureTime": "Wednesday, March 14th 2018, 06:00am",
+    "arrivalTime": "Thursday, March 15th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1218",
+        "duration": "3 Hours 1 Minute",
+        "durationSeconds": 10860,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 14th 2018, 06:00am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Wednesday, March 14th 2018, 08:01am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Wednesday, March 14th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 15th 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 15th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Thursday, March 15th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "e78123f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e43160941cd6a0f710c6c066b6e7e4f10e95b18f9"
+  },
+  {
+    "price": "$1104.32",
+    "price_pennies": 110432,
+    "duration": "19 Hours 25 Minutes",
+    "durationSeconds": 69900,
+    "departureTime": "Tuesday, March 20th 2018, 06:00am",
+    "arrivalTime": "Wednesday, March 21st 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1218",
+        "duration": "3 Hours 1 Minute",
+        "durationSeconds": 10860,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 20th 2018, 06:00am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Tuesday, March 20th 2018, 08:01am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Tuesday, March 20th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 21st 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 21st 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Wednesday, March 21st 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "b7e79fe",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e43160941e6329964d233767a77d365183b9eec87"
+  },
+  {
+    "price": "$1166.82",
+    "price_pennies": 116682,
+    "duration": "17 Hours 20 Minutes",
+    "durationSeconds": 62400,
+    "departureTime": "Monday, April 23rd 2018, 09:05am",
+    "arrivalTime": "Tuesday, April 24th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 5 Minutes",
+        "durationSeconds": 7500,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 23rd 2018, 09:05am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Monday, April 23rd 2018, 11:10am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH1",
+        "duration": "14 Hours 5 Minutes",
+        "durationSeconds": 50700,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Monday, April 23rd 2018, 12:20pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 24th 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Tuesday, April 24th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Tuesday, April 24th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "9669689",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca559870608580aa9c996fafde7bc24229e2f35b6945aee037a7a7b8e26ff731be2"
+  },
+  {
+    "price": "$1166.82",
+    "price_pennies": 116682,
+    "duration": "17 Hours 20 Minutes",
+    "durationSeconds": 62400,
+    "departureTime": "Thursday, April 19th 2018, 07:35am",
+    "arrivalTime": "Friday, April 20th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 34 Minutes",
+        "durationSeconds": 9240,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 19th 2018, 07:35am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Thursday, April 19th 2018, 10:09am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Thursday, April 19th 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, April 20th 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, April 20th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, April 20th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "47c6277",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca559870608580aa9c996fafde7bc24229e2d216a6ad368040214ef88e74f157dd6"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 2 Minutes",
+    "durationSeconds": 61320,
+    "departureTime": "Tuesday, April 3rd 2018, 09:18am",
+    "arrivalTime": "Wednesday, April 4th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1239",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, April 3rd 2018, 09:18am",
+        "arrivingAt": "George Bush Intercontinental, IAH, Houston, United States",
+        "arrivalTime": "Tuesday, April 3rd 2018, 10:55am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH173",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "George Bush Intercontinental, IAH, Houston, United States",
+        "departureTime": "Tuesday, April 3rd 2018, 11:30am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 4th 2018, 03:20pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, April 4th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, April 4th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "361ae7b",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc8677abd14be90fc73ab23fb31f0048a839"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Tuesday, March 27th 2018, 09:15am",
+    "arrivalTime": "Wednesday, March 28th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 27th 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Tuesday, March 27th 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Tuesday, March 27th 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 28th 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 28th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, March 28th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "244f0a8",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc869ca2772d89dca81d08e7db7df3407c1f"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Wednesday, March 28th 2018, 09:15am",
+    "arrivalTime": "Thursday, March 29th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 28th 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Wednesday, March 28th 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Wednesday, March 28th 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 29th 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 29th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Thursday, March 29th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "57576af",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86290042741b730b77637de563e7515d0c"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 12 Minutes",
+    "durationSeconds": 61920,
+    "departureTime": "Tuesday, March 27th 2018, 07:43am",
+    "arrivalTime": "Wednesday, March 28th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 27th 2018, 07:43am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Tuesday, March 27th 2018, 10:20am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Tuesday, March 27th 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 28th 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 28th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, March 28th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "a279eb6",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86415443588ac5053e5ade44d9828e85a6"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 12 Minutes",
+    "durationSeconds": 61920,
+    "departureTime": "Wednesday, March 28th 2018, 07:43am",
+    "arrivalTime": "Thursday, March 29th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 28th 2018, 07:43am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Wednesday, March 28th 2018, 10:20am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Wednesday, March 28th 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 29th 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 29th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Thursday, March 29th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "a2ccc2c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86d3b2714ca77fdfb15af18bf18b992676"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 25 Minutes",
+    "durationSeconds": 62700,
+    "departureTime": "Tuesday, March 27th 2018, 09:30am",
+    "arrivalTime": "Wednesday, March 28th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA272",
+        "duration": "2 Hours 56 Minutes",
+        "durationSeconds": 10560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, March 27th 2018, 09:30am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Tuesday, March 27th 2018, 11:26am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA881",
+        "duration": "13 Hours 10 Minutes",
+        "durationSeconds": 47400,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Tuesday, March 27th 2018, 12:45pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Wednesday, March 28th 2018, 03:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Wednesday, March 28th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, March 28th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "f370c64",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc865e15a056d53b6d5b86aa3ac1fc71108d"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 39 Minutes",
+    "durationSeconds": 63540,
+    "departureTime": "Thursday, March 15th 2018, 07:46am",
+    "arrivalTime": "Saturday, March 17th 2018, 12:10am",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 15th 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Thursday, March 15th 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Thursday, March 15th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 16th 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL729",
+        "duration": "8 Hours 10 Minutes",
+        "durationSeconds": 29400,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 16th 2018, 06:00pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Saturday, March 17th 2018, 12:10am"
+      }
+    ],
+    "flight_key": "5bd71b9",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86119aed2071cadcd291b1f1628460ebbd"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "17 Hours 39 Minutes",
+    "durationSeconds": 63540,
+    "departureTime": "Wednesday, March 21st 2018, 07:46am",
+    "arrivalTime": "Friday, March 23rd 2018, 12:10am",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 21st 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Wednesday, March 21st 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Wednesday, March 21st 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 22nd 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL729",
+        "duration": "8 Hours 10 Minutes",
+        "durationSeconds": 29400,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 22nd 2018, 06:00pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, March 23rd 2018, 12:10am"
+      }
+    ],
+    "flight_key": "9ace499",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86169be27e2184a282c58eedff5a94ee92"
+  },
+  {
+    "price": "$1175.32",
+    "price_pennies": 117532,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Thursday, March 15th 2018, 09:00am",
+    "arrivalTime": "Saturday, March 17th 2018, 12:10am",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 15th 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Thursday, March 15th 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Thursday, March 15th 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 16th 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL729",
+        "duration": "8 Hours 10 Minutes",
+        "durationSeconds": 29400,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 16th 2018, 06:00pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Saturday, March 17th 2018, 12:10am"
+      }
+    ],
+    "flight_key": "dd66233",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca57b21d2b9c292bc0413d5e045b8d1d7bef9d867367decb57d2c5bfedaa951cea5"
+  },
+  {
+    "price": "$1175.32",
+    "price_pennies": 117532,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Wednesday, March 21st 2018, 09:00am",
+    "arrivalTime": "Friday, March 23rd 2018, 12:10am",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 21st 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Wednesday, March 21st 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Wednesday, March 21st 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 22nd 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL729",
+        "duration": "8 Hours 10 Minutes",
+        "durationSeconds": 29400,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 22nd 2018, 06:00pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, March 23rd 2018, 12:10am"
+      }
+    ],
+    "flight_key": "323c25a",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca57b21d2b9c292bc0413d5e045b8d1d7be1d2eede3c42c18f99a4ba86d677b768a"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours ",
+    "durationSeconds": 64800,
+    "departureTime": "Monday, March 12th 2018, 07:15am",
+    "arrivalTime": "Tuesday, March 13th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA2142",
+        "duration": "3 Hours ",
+        "durationSeconds": 10800,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 12th 2018, 07:15am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, March 12th 2018, 09:15am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH11",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, March 12th 2018, 10:55am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 13th 2018, 02:15pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Tuesday, March 13th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Tuesday, March 13th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "20a8c63",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc8633fa5cce30c69a480985a82014012085"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 10 Minutes",
+    "durationSeconds": 65400,
+    "departureTime": "Thursday, March 22nd 2018, 09:30am",
+    "arrivalTime": "Friday, March 23rd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA272",
+        "duration": "2 Hours 56 Minutes",
+        "durationSeconds": 10560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 22nd 2018, 09:30am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Thursday, March 22nd 2018, 11:26am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA881",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Thursday, March 22nd 2018, 01:20pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 23rd 2018, 04:40pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 23rd 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, March 23rd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "2e1db2a",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86f590724ba6be84ea1069a4a98dc138cc"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 17 Minutes",
+    "durationSeconds": 65820,
+    "departureTime": "Thursday, March 15th 2018, 07:43am",
+    "arrivalTime": "Friday, March 16th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 15th 2018, 07:43am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Thursday, March 15th 2018, 10:20am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Thursday, March 15th 2018, 11:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 16th 2018, 03:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 16th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, March 16th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "4475adb",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc8665cb5be35ec2f6ee58b6351bd6c7c70e"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 17 Minutes",
+    "durationSeconds": 65820,
+    "departureTime": "Wednesday, March 21st 2018, 07:43am",
+    "arrivalTime": "Thursday, March 22nd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 21st 2018, 07:43am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Wednesday, March 21st 2018, 10:20am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Wednesday, March 21st 2018, 11:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 22nd 2018, 03:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 22nd 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Thursday, March 22nd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "a75d1e8",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86e07a349c36bed432c2315706c5018c37"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 17 Minutes",
+    "durationSeconds": 65820,
+    "departureTime": "Thursday, March 22nd 2018, 07:43am",
+    "arrivalTime": "Friday, March 23rd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 22nd 2018, 07:43am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Thursday, March 22nd 2018, 10:20am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Thursday, March 22nd 2018, 11:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 23rd 2018, 03:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 23rd 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, March 23rd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "640750c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86a6f8ea3bab31be1aa82793ab4e8df4c3"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 20 Minutes",
+    "durationSeconds": 66000,
+    "departureTime": "Monday, March 12th 2018, 07:40am",
+    "arrivalTime": "Tuesday, March 13th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 12th 2018, 07:40am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Monday, March 12th 2018, 10:17am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Monday, March 12th 2018, 11:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 13th 2018, 03:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Tuesday, March 13th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Tuesday, March 13th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "3030619",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86f08a3f9ef83252558348b0b54b730b6f"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 25 Minutes",
+    "durationSeconds": 66300,
+    "departureTime": "Monday, March 12th 2018, 09:15am",
+    "arrivalTime": "Tuesday, March 13th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 12th 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Monday, March 12th 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Monday, March 12th 2018, 01:30pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 13th 2018, 04:40pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Tuesday, March 13th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Tuesday, March 13th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "230c575",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86e1818d1d9789678e191b4b855284aa09"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 25 Minutes",
+    "durationSeconds": 66300,
+    "departureTime": "Thursday, March 22nd 2018, 09:15am",
+    "arrivalTime": "Friday, March 23rd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 22nd 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Thursday, March 22nd 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Thursday, March 22nd 2018, 01:30pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 23rd 2018, 04:40pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 23rd 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, March 23rd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "4a5fc5b",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc86ded28d86dfedb4fce07b0903472ee3bc"
+  },
+  {
+    "price": "$1179.82",
+    "price_pennies": 117982,
+    "duration": "18 Hours 25 Minutes",
+    "durationSeconds": 66300,
+    "departureTime": "Wednesday, March 28th 2018, 06:30am",
+    "arrivalTime": "Thursday, March 29th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA302",
+        "duration": "2 Hours 35 Minutes",
+        "durationSeconds": 9300,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, March 28th 2018, 06:30am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Wednesday, March 28th 2018, 09:05am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Wednesday, March 28th 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, March 29th 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Thursday, March 29th 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Thursday, March 29th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "bd33e89",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca57da914e2604b6d214a0292b657e7bc8625baeccc86467b6d89ec1d6bc30e4987"
+  },
+  {
+    "price": "$1190.12",
+    "price_pennies": 119012,
+    "duration": "17 Hours 25 Minutes",
+    "durationSeconds": 62700,
+    "departureTime": "Monday, April 2nd 2018, 09:30am",
+    "arrivalTime": "Wednesday, April 4th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA272",
+        "duration": "2 Hours 56 Minutes",
+        "durationSeconds": 10560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 2nd 2018, 09:30am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, April 2nd 2018, 11:26am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA881",
+        "duration": "13 Hours 10 Minutes",
+        "durationSeconds": 47400,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, April 2nd 2018, 12:45pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 3rd 2018, 03:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Tuesday, April 3rd 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, April 4th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "9a5c875",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5c6d978ae795ce564f34bbe847ccbffbd15c72245de9ccd07b47f21e56418bcf0"
+  },
+  {
+    "price": "$1178.12",
+    "price_pennies": 117812,
+    "duration": "18 Hours 35 Minutes",
+    "durationSeconds": 66900,
+    "departureTime": "Wednesday, April 4th 2018, 06:20am",
+    "arrivalTime": "Friday, April 6th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA759",
+        "duration": "6 Hours 5 Minutes",
+        "durationSeconds": 21900,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 4th 2018, 06:20am",
+        "arrivingAt": "San Francisco Intl, SFO, San Francisco, United States",
+        "arrivalTime": "Wednesday, April 4th 2018, 09:25am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA875",
+        "duration": "11 Hours 10 Minutes",
+        "durationSeconds": 40200,
+        "departingFrom": "San Francisco Intl, SFO, San Francisco, United States",
+        "departureTime": "Wednesday, April 4th 2018, 10:45am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 5th 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Thursday, April 5th 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Friday, April 6th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "2fc36ea",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca524d2f23c07f546b8188d7e97d4c8b808f4c20b127b443d892b7dec9dc89c9794"
+  },
+  {
+    "price": "$1178.12",
+    "price_pennies": 117812,
+    "duration": "18 Hours 55 Minutes",
+    "durationSeconds": 68100,
+    "departureTime": "Tuesday, April 10th 2018, 06:00am",
+    "arrivalTime": "Thursday, April 12th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA759",
+        "duration": "6 Hours ",
+        "durationSeconds": 21600,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, April 10th 2018, 06:00am",
+        "arrivingAt": "San Francisco Intl, SFO, San Francisco, United States",
+        "arrivalTime": "Tuesday, April 10th 2018, 09:00am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA875",
+        "duration": "11 Hours 10 Minutes",
+        "durationSeconds": 40200,
+        "departingFrom": "San Francisco Intl, SFO, San Francisco, United States",
+        "departureTime": "Tuesday, April 10th 2018, 10:45am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 11th 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Wednesday, April 11th 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Thursday, April 12th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "e89bcab",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca524d2f23c07f546b8188d7e97d4c8b808970a1bd10dd43118be8cd086a892014f"
+  },
+  {
+    "price": "$1165.12",
+    "price_pennies": 116512,
+    "duration": "20 Hours 50 Minutes",
+    "durationSeconds": 75000,
+    "departureTime": "Monday, April 23rd 2018, 07:10pm",
+    "arrivalTime": "Wednesday, April 25th 2018, 03:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA564",
+        "duration": "5 Hours 28 Minutes",
+        "durationSeconds": 19680,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 23rd 2018, 07:10pm",
+        "arrivingAt": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "arrivalTime": "Monday, April 23rd 2018, 09:38pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH105",
+        "duration": "12 Hours 10 Minutes",
+        "durationSeconds": 43800,
+        "departingFrom": "Los Angeles Intl, LAX, Los Angeles, United States",
+        "departureTime": "Tuesday, April 24th 2018, 12:50am",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 25th 2018, 05:00am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH855",
+        "duration": "7 Hours 40 Minutes",
+        "durationSeconds": 27600,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Wednesday, April 25th 2018, 10:15am",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, April 25th 2018, 03:55pm"
+      }
+    ],
+    "flight_key": "2ac2f6f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca59ed27a0df57a6970f7aa1325c35d4a20be49e6851ea632057879d380fc4f893e"
+  },
+  {
+    "price": "$1198.30",
+    "price_pennies": 119830,
+    "duration": "17 Hours 39 Minutes",
+    "durationSeconds": 63540,
+    "departureTime": "Sunday, March 18th 2018, 07:46am",
+    "arrivalTime": "Monday, March 19th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA425",
+        "duration": "3 Hours 4 Minutes",
+        "durationSeconds": 11040,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 18th 2018, 07:46am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Sunday, March 18th 2018, 09:50am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA175",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Sunday, March 18th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 19th 2018, 02:25pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 19th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Monday, March 19th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "244a0e3",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e43160941847087d2eabe88558cde1edaa43d5147"
+  },
+  {
+    "price": "$1193.80",
+    "price_pennies": 119380,
+    "duration": "18 Hours 15 Minutes",
+    "durationSeconds": 65700,
+    "departureTime": "Sunday, March 18th 2018, 09:00am",
+    "arrivalTime": "Monday, March 19th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "3 Hours 5 Minutes",
+        "durationSeconds": 11100,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 18th 2018, 09:00am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Sunday, March 18th 2018, 11:05am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA153",
+        "duration": "13 Hours 15 Minutes",
+        "durationSeconds": 47700,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Sunday, March 18th 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 19th 2018, 04:15pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 19th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Monday, March 19th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "3aa028b",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca55e9e306f38cb0ebd39d6e2434da4bd9d52ce758bb16092febfad87ce1e691314"
+  },
+  {
+    "price": "$1198.30",
+    "price_pennies": 119830,
+    "duration": "18 Hours 11 Minutes",
+    "durationSeconds": 65460,
+    "departureTime": "Sunday, March 18th 2018, 08:34am",
+    "arrivalTime": "Monday, March 19th 2018, 09:15pm",
+    "legs": [
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA1938",
+        "duration": "3 Hours 6 Minutes",
+        "durationSeconds": 11160,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 18th 2018, 08:34am",
+        "arrivingAt": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "arrivalTime": "Sunday, March 18th 2018, 10:40am"
+      },
+      {
+        "airline": "American Airlines",
+        "flightCode": "AA61",
+        "duration": "13 Hours 30 Minutes",
+        "durationSeconds": 48600,
+        "departingFrom": "Dallas Fort Worth Intl, DFW, Dallas-Fort Worth, United States",
+        "departureTime": "Sunday, March 18th 2018, 12:15pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 19th 2018, 03:45pm"
+      },
+      {
+        "airline": "Japan Airlines Domestic",
+        "flightCode": "JL809",
+        "duration": "4 Hours 15 Minutes",
+        "durationSeconds": 15300,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 19th 2018, 06:00pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Monday, March 19th 2018, 09:15pm"
+      }
+    ],
+    "flight_key": "b3302fe",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5b5a2c0f95aea43721063ea3e4316094163ead580c2023a4a81f88fc95775f626"
+  },
+  {
+    "price": "$1178.12",
+    "price_pennies": 117812,
+    "duration": "20 Hours 20 Minutes",
+    "durationSeconds": 73200,
+    "departureTime": "Tuesday, April 10th 2018, 11:10am",
+    "arrivalTime": "Thursday, April 12th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA633",
+        "duration": "2 Hours 55 Minutes",
+        "durationSeconds": 10500,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Tuesday, April 10th 2018, 11:10am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Tuesday, April 10th 2018, 01:05pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH111",
+        "duration": "13 Hours 5 Minutes",
+        "durationSeconds": 47100,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Tuesday, April 10th 2018, 05:25pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Wednesday, April 11th 2018, 08:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Wednesday, April 11th 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Thursday, April 12th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "7ca1c8e",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca524d2f23c07f546b8188d7e97d4c8b8088db979e08d6491d452ee3bd390d66a06"
+  },
+  {
+    "price": "$1190.12",
+    "price_pennies": 119012,
+    "duration": "19 Hours 15 Minutes",
+    "durationSeconds": 69300,
+    "departureTime": "Monday, April 2nd 2018, 06:20am",
+    "arrivalTime": "Wednesday, April 4th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA759",
+        "duration": "6 Hours 5 Minutes",
+        "durationSeconds": 21900,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 2nd 2018, 06:20am",
+        "arrivingAt": "San Francisco Intl, SFO, San Francisco, United States",
+        "arrivalTime": "Monday, April 2nd 2018, 09:25am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA837",
+        "duration": "11 Hours 5 Minutes",
+        "durationSeconds": 39900,
+        "departingFrom": "San Francisco Intl, SFO, San Francisco, United States",
+        "departureTime": "Monday, April 2nd 2018, 11:30am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 3rd 2018, 02:35pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Tuesday, April 3rd 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, April 4th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "1fcdbaf",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5c6d978ae795ce564f34bbe847ccbffbd6c973a071307ad605d6cccf4c4e7c343"
+  },
+  {
+    "price": "$1178.12",
+    "price_pennies": 117812,
+    "duration": "20 Hours 45 Minutes",
+    "durationSeconds": 74700,
+    "departureTime": "Monday, March 26th 2018, 10:45am",
+    "arrivalTime": "Wednesday, March 28th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1850",
+        "duration": "3 Hours ",
+        "durationSeconds": 10800,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 26th 2018, 10:45am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, March 26th 2018, 12:45pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH111",
+        "duration": "13 Hours 5 Minutes",
+        "durationSeconds": 47100,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, March 26th 2018, 05:25pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 27th 2018, 08:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Tuesday, March 27th 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, March 28th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "443023c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca524d2f23c07f546b8188d7e97d4c8b80808b79199aa886a6ab42d5e8719403204"
+  },
+  {
+    "price": "$1190.12",
+    "price_pennies": 119012,
+    "duration": "19 Hours 40 Minutes",
+    "durationSeconds": 70800,
+    "departureTime": "Monday, April 2nd 2018, 07:15am",
+    "arrivalTime": "Wednesday, April 4th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA2142",
+        "duration": "3 Hours ",
+        "durationSeconds": 10800,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, April 2nd 2018, 07:15am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, April 2nd 2018, 09:15am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA881",
+        "duration": "13 Hours 10 Minutes",
+        "durationSeconds": 47400,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, April 2nd 2018, 12:45pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Tuesday, April 3rd 2018, 03:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Tuesday, April 3rd 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, April 4th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "a49b1c3",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5c6d978ae795ce564f34bbe847ccbffbd059bfc0cd050fef23fd3fa5f3207d38a"
+  },
+  {
+    "price": "$1178.12",
+    "price_pennies": 117812,
+    "duration": "22 Hours ",
+    "durationSeconds": 79200,
+    "departureTime": "Monday, March 26th 2018, 09:30am",
+    "arrivalTime": "Wednesday, March 28th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA272",
+        "duration": "2 Hours 56 Minutes",
+        "durationSeconds": 10560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Monday, March 26th 2018, 09:30am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Monday, March 26th 2018, 11:26am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH111",
+        "duration": "13 Hours 5 Minutes",
+        "durationSeconds": 47100,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Monday, March 26th 2018, 05:25pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Tuesday, March 27th 2018, 08:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Tuesday, March 27th 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Wednesday, March 28th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "dc89d5d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca524d2f23c07f546b8188d7e97d4c8b808a32187c5bb6711e7b3cd36faaeb303d6"
+  },
+  {
+    "price": "$1219.82",
+    "price_pennies": 121982,
+    "duration": "18 Hours 12 Minutes",
+    "durationSeconds": 65520,
+    "departureTime": "Friday, March 23rd 2018, 07:43am",
+    "arrivalTime": "Saturday, March 24th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 23rd 2018, 07:43am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Friday, March 23rd 2018, 10:20am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Friday, March 23rd 2018, 11:45am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 24th 2018, 02:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 24th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Saturday, March 24th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "2c26848",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca517862d731c3093b7d2168427fe4c7e9cf6a0c018602f5973855acf3ddf5a293d"
+  },
+  {
+    "price": "$1237.82",
+    "price_pennies": 123782,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Friday, April 6th 2018, 09:15am",
+    "arrivalTime": "Saturday, April 7th 2018, 11:30pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 6th 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Friday, April 6th 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Friday, April 6th 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 7th 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "6 Hours 35 Minutes",
+        "durationSeconds": 23700,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, April 7th 2018, 06:55pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Saturday, April 7th 2018, 11:30pm"
+      }
+    ],
+    "flight_key": "bc62730",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc3d965554225a3c6a8a7d9e791bab7c7b"
+  },
+  {
+    "price": "$1237.82",
+    "price_pennies": 123782,
+    "duration": "17 Hours 15 Minutes",
+    "durationSeconds": 62100,
+    "departureTime": "Friday, April 6th 2018, 07:40am",
+    "arrivalTime": "Saturday, April 7th 2018, 11:30pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, April 6th 2018, 07:40am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Friday, April 6th 2018, 10:17am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Friday, April 6th 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, April 7th 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "6 Hours 35 Minutes",
+        "durationSeconds": 23700,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, April 7th 2018, 06:55pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Saturday, April 7th 2018, 11:30pm"
+      }
+    ],
+    "flight_key": "3f4b7f4",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc164c729d48b23573fa982bd21808612a"
+  },
+  {
+    "price": "$1231.82",
+    "price_pennies": 123182,
+    "duration": "18 Hours ",
+    "durationSeconds": 64800,
+    "departureTime": "Friday, March 23rd 2018, 09:15am",
+    "arrivalTime": "Saturday, March 24th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 23rd 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Friday, March 23rd 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "14 Hours 15 Minutes",
+        "durationSeconds": 51300,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Friday, March 23rd 2018, 01:00pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 24th 2018, 04:15pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 24th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Saturday, March 24th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "3de58d0",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca50991f93af5cf6c7a7148f0df30e5562d1da3a6903a46d03ab2ba99d38c0c37e5"
+  },
+  {
+    "price": "$1219.82",
+    "price_pennies": 121982,
+    "duration": "19 Hours 25 Minutes",
+    "durationSeconds": 69900,
+    "departureTime": "Friday, March 23rd 2018, 06:30am",
+    "arrivalTime": "Saturday, March 24th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA302",
+        "duration": "2 Hours 35 Minutes",
+        "durationSeconds": 9300,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 23rd 2018, 06:30am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Friday, March 23rd 2018, 09:05am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Friday, March 23rd 2018, 11:45am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 24th 2018, 02:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 24th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Saturday, March 24th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "16b277d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca517862d731c3093b7d2168427fe4c7e9c232e74fb74f5828a60bcc19296952a97"
+  },
+  {
+    "price": "$1256.72",
+    "price_pennies": 125672,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Thursday, March 29th 2018, 09:15am",
+    "arrivalTime": "Friday, March 30th 2018, 08:15pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 29th 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Thursday, March 29th 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Thursday, March 29th 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 30th 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH823",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 30th 2018, 05:35pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Friday, March 30th 2018, 08:15pm"
+      }
+    ],
+    "flight_key": "32448bb",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca55b741b7baf724ce6760033201f482a84c32009e60384705577c88b15dee6aca1"
+  },
+  {
+    "price": "$1248.32",
+    "price_pennies": 124832,
+    "duration": "18 Hours 30 Minutes",
+    "durationSeconds": 66600,
+    "departureTime": "Thursday, March 29th 2018, 06:30am",
+    "arrivalTime": "Friday, March 30th 2018, 09:10pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1928",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 29th 2018, 06:30am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Thursday, March 29th 2018, 09:12am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "12 Hours 55 Minutes",
+        "durationSeconds": 46500,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Thursday, March 29th 2018, 12:05pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 30th 2018, 02:00pm"
+      },
+      {
+        "airline": "China Airlines",
+        "flightCode": "CI105",
+        "duration": "3 Hours 50 Minutes",
+        "durationSeconds": 13800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 30th 2018, 06:20pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Friday, March 30th 2018, 09:10pm"
+      }
+    ],
+    "flight_key": "f6f907b",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5353aa1c08e6d3e853cf457f225ca44e9b42f5b32e47ad6af910504f1a78ebdd3"
+  },
+  {
+    "price": "$1230.71",
+    "price_pennies": 123071,
+    "duration": "20 Hours 15 Minutes",
+    "durationSeconds": 72900,
+    "departureTime": "Wednesday, April 18th 2018, 06:00am",
+    "arrivalTime": "Thursday, April 19th 2018, 03:15pm",
+    "legs": [
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC1671",
+        "duration": "2 Hours 42 Minutes",
+        "durationSeconds": 9720,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Wednesday, April 18th 2018, 06:00am",
+        "arrivingAt": "Lester B Pearson Intl, YYZ, Toronto, Canada",
+        "arrivalTime": "Wednesday, April 18th 2018, 08:42am"
+      },
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC107",
+        "duration": "5 Hours 5 Minutes",
+        "durationSeconds": 18300,
+        "departingFrom": "Lester B Pearson Intl, YYZ, Toronto, Canada",
+        "departureTime": "Wednesday, April 18th 2018, 10:15am",
+        "arrivingAt": "Vancouver Intl, YVR, Vancouver, Canada",
+        "arrivalTime": "Wednesday, April 18th 2018, 12:20pm"
+      },
+      {
+        "airline": "Air Canada",
+        "flightCode": "AC3",
+        "duration": "9 Hours 50 Minutes",
+        "durationSeconds": 35400,
+        "departingFrom": "Vancouver Intl, YVR, Vancouver, Canada",
+        "departureTime": "Wednesday, April 18th 2018, 01:25pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Thursday, April 19th 2018, 03:15pm"
+      }
+    ],
+    "flight_key": "9a9e2f9",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca505549ec98bcc8932c0ed86efe4a9f325ad5538085063ff115cc3ab36aaa82f94"
+  },
+  {
+    "price": "$1256.72",
+    "price_pennies": 125672,
+    "duration": "18 Hours ",
+    "durationSeconds": 64800,
+    "departureTime": "Thursday, March 29th 2018, 07:00am",
+    "arrivalTime": "Friday, March 30th 2018, 08:15pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1768",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, March 29th 2018, 07:00am",
+        "arrivingAt": "George Bush Intercontinental, IAH, Houston, United States",
+        "arrivalTime": "Thursday, March 29th 2018, 08:37am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA7",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "George Bush Intercontinental, IAH, Houston, United States",
+        "departureTime": "Thursday, March 29th 2018, 10:25am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Friday, March 30th 2018, 02:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH823",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Friday, March 30th 2018, 05:35pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Friday, March 30th 2018, 08:15pm"
+      }
+    ],
+    "flight_key": "d65f422",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca55b741b7baf724ce6760033201f482a84418247c60e68678919a9f10ea8b460b2"
+  },
+  {
+    "price": "$1281.72",
+    "price_pennies": 128172,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Friday, March 30th 2018, 09:15am",
+    "arrivalTime": "Saturday, March 31st 2018, 08:15pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 30th 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Friday, March 30th 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Friday, March 30th 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 31st 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH823",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 31st 2018, 05:35pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Saturday, March 31st 2018, 08:15pm"
+      }
+    ],
+    "flight_key": "fc2ce12",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5d30d78a18dfebd9a1f39aac2e3634de4d6ea6e0a2ac2da346f51e6b53d3aae34"
+  },
+  {
+    "price": "$1281.72",
+    "price_pennies": 128172,
+    "duration": "18 Hours ",
+    "durationSeconds": 64800,
+    "departureTime": "Friday, March 30th 2018, 07:00am",
+    "arrivalTime": "Saturday, March 31st 2018, 08:15pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1768",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 30th 2018, 07:00am",
+        "arrivingAt": "George Bush Intercontinental, IAH, Houston, United States",
+        "arrivalTime": "Friday, March 30th 2018, 08:37am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA7",
+        "duration": "13 Hours 35 Minutes",
+        "durationSeconds": 48900,
+        "departingFrom": "George Bush Intercontinental, IAH, Houston, United States",
+        "departureTime": "Friday, March 30th 2018, 10:25am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 31st 2018, 02:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH823",
+        "duration": "3 Hours 40 Minutes",
+        "durationSeconds": 13200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 31st 2018, 05:35pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Saturday, March 31st 2018, 08:15pm"
+      }
+    ],
+    "flight_key": "345d81e",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca5d30d78a18dfebd9a1f39aac2e3634de4f34129beaab46b7985ea1906d94c3736"
+  },
+  {
+    "price": "$1284.32",
+    "price_pennies": 128432,
+    "duration": "18 Hours 20 Minutes",
+    "durationSeconds": 66000,
+    "departureTime": "Friday, March 30th 2018, 07:15am",
+    "arrivalTime": "Saturday, March 31st 2018, 09:10pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1651",
+        "duration": "1 Hour 40 Minutes",
+        "durationSeconds": 6000,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Friday, March 30th 2018, 07:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Friday, March 30th 2018, 08:55am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 19 Minutes",
+        "durationSeconds": 51540,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Friday, March 30th 2018, 11:16am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Saturday, March 31st 2018, 02:35pm"
+      },
+      {
+        "airline": "China Airlines",
+        "flightCode": "CI105",
+        "duration": "3 Hours 50 Minutes",
+        "durationSeconds": 13800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Saturday, March 31st 2018, 06:20pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Saturday, March 31st 2018, 09:10pm"
+      }
+    ],
+    "flight_key": "7d0862f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca51681d0c675d7642696a6eb8fd516c2df4fe5d4deab58e4dc788c351a4f80938d"
+  },
+  {
+    "price": "$1269.29",
+    "price_pennies": 126929,
+    "duration": "20 Hours 20 Minutes",
+    "durationSeconds": 73200,
+    "departureTime": "Thursday, April 12th 2018, 11:10am",
+    "arrivalTime": "Saturday, April 14th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA633",
+        "duration": "2 Hours 55 Minutes",
+        "durationSeconds": 10500,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 12th 2018, 11:10am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Thursday, April 12th 2018, 01:05pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH111",
+        "duration": "13 Hours 5 Minutes",
+        "durationSeconds": 47100,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Thursday, April 12th 2018, 05:25pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 13th 2018, 08:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Friday, April 13th 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Saturday, April 14th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "e5a426d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca524d2f23c07f546b8188d7e97d4c8b8089d6ae8794cfdbb9ec04900a65ccd8060"
+  },
+  {
+    "price": "$1300.42",
+    "price_pennies": 130042,
+    "duration": "17 Hours 20 Minutes",
+    "durationSeconds": 62400,
+    "departureTime": "Sunday, April 22nd 2018, 07:35am",
+    "arrivalTime": "Monday, April 23rd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 34 Minutes",
+        "durationSeconds": 9240,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 22nd 2018, 07:35am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Sunday, April 22nd 2018, 10:09am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Sunday, April 22nd 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, April 23rd 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, April 23rd 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Monday, April 23rd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "87941ac",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca5cd2729b49e8bbf2c9ee71a7642082cf6092e32b3e55c0b3f802da84d77adde4c"
+  },
+  {
+    "price": "$1313.42",
+    "price_pennies": 131342,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Sunday, April 1st 2018, 09:15am",
+    "arrivalTime": "Monday, April 2nd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 5 Minutes",
+        "durationSeconds": 7500,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 1st 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Sunday, April 1st 2018, 11:20am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Sunday, April 1st 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, April 2nd 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, April 2nd 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Monday, April 2nd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "eb345fe",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca517862d731c3093b7d2168427fe4c7e9c70711f0fd60fa2013af5f402f70216b1"
+  },
+  {
+    "price": "$1313.42",
+    "price_pennies": 131342,
+    "duration": "17 Hours 23 Minutes",
+    "durationSeconds": 62580,
+    "departureTime": "Sunday, April 1st 2018, 07:32am",
+    "arrivalTime": "Monday, April 2nd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 1st 2018, 07:32am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Sunday, April 1st 2018, 10:09am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Sunday, April 1st 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, April 2nd 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, April 2nd 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Monday, April 2nd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "9ae16a6",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca517862d731c3093b7d2168427fe4c7e9ca1df0f7ee45d407641f388c949125514"
+  },
+  {
+    "price": "$1269.29",
+    "price_pennies": 126929,
+    "duration": "22 Hours 5 Minutes",
+    "durationSeconds": 79500,
+    "departureTime": "Thursday, April 12th 2018, 09:25am",
+    "arrivalTime": "Saturday, April 14th 2018, 05:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA272",
+        "duration": "2 Hours 53 Minutes",
+        "durationSeconds": 10380,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Thursday, April 12th 2018, 09:25am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Thursday, April 12th 2018, 11:18am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH111",
+        "duration": "13 Hours 5 Minutes",
+        "durationSeconds": 47100,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Thursday, April 12th 2018, 05:25pm",
+        "arrivingAt": "Tokyo Intl, HND, Tokyo, Japan",
+        "arrivalTime": "Friday, April 13th 2018, 08:30pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH871",
+        "duration": "7 Hours 35 Minutes",
+        "durationSeconds": 27300,
+        "departingFrom": "Tokyo Intl, HND, Tokyo, Japan",
+        "departureTime": "Friday, April 13th 2018, 11:30pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Saturday, April 14th 2018, 05:05am"
+      }
+    ],
+    "flight_key": "4eceee5",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca524d2f23c07f546b8188d7e97d4c8b8081045a660b605e66424f0ef5811db074d"
+  },
+  {
+    "price": "$1313.42",
+    "price_pennies": 131342,
+    "duration": "18 Hours ",
+    "durationSeconds": 64800,
+    "departureTime": "Sunday, March 11th 2018, 07:15am",
+    "arrivalTime": "Monday, March 12th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA2142",
+        "duration": "3 Hours ",
+        "durationSeconds": 10800,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 11th 2018, 07:15am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Sunday, March 11th 2018, 09:15am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH11",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Sunday, March 11th 2018, 10:55am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 12th 2018, 02:15pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 12th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Monday, March 12th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "5630313",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca517862d731c3093b7d2168427fe4c7e9c8c3fd99d7ddcd693fb8b7f8d595639b3"
+  },
+  {
+    "price": "$1313.42",
+    "price_pennies": 131342,
+    "duration": "18 Hours 25 Minutes",
+    "durationSeconds": 66300,
+    "departureTime": "Sunday, April 1st 2018, 06:30am",
+    "arrivalTime": "Monday, April 2nd 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA302",
+        "duration": "2 Hours 35 Minutes",
+        "durationSeconds": 9300,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 1st 2018, 06:30am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Sunday, April 1st 2018, 09:05am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Sunday, April 1st 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, April 2nd 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "7 Hours 50 Minutes",
+        "durationSeconds": 28200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, April 2nd 2018, 06:05pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Monday, April 2nd 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "379d388",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca517862d731c3093b7d2168427fe4c7e9c51fd66369f61980e936e834ea0722893"
+  },
+  {
+    "price": "$1313.42",
+    "price_pennies": 131342,
+    "duration": "18 Hours 28 Minutes",
+    "durationSeconds": 66480,
+    "departureTime": "Sunday, March 11th 2018, 07:32am",
+    "arrivalTime": "Monday, March 12th 2018, 11:55pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 36 Minutes",
+        "durationSeconds": 9360,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 11th 2018, 07:32am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Sunday, March 11th 2018, 10:08am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Sunday, March 11th 2018, 11:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 12th 2018, 03:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH835",
+        "duration": "8 Hours ",
+        "durationSeconds": 28800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 12th 2018, 05:55pm",
+        "arrivingAt": "Soekarno Hatta Intl, CGK, Jakarta, Indonesia",
+        "arrivalTime": "Monday, March 12th 2018, 11:55pm"
+      }
+    ],
+    "flight_key": "8e01721",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca517862d731c3093b7d2168427fe4c7e9c0c20326bbdf5dc906ce481aeb2f9d8bf"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "17 Hours 2 Minutes",
+    "durationSeconds": 61320,
+    "departureTime": "Saturday, March 31st 2018, 09:18am",
+    "arrivalTime": "Sunday, April 1st 2018, 11:30pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1239",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 31st 2018, 09:18am",
+        "arrivingAt": "George Bush Intercontinental, IAH, Houston, United States",
+        "arrivalTime": "Saturday, March 31st 2018, 10:55am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH173",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "George Bush Intercontinental, IAH, Houston, United States",
+        "departureTime": "Saturday, March 31st 2018, 11:30am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, April 1st 2018, 03:20pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "6 Hours 35 Minutes",
+        "durationSeconds": 23700,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, April 1st 2018, 06:55pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Sunday, April 1st 2018, 11:30pm"
+      }
+    ],
+    "flight_key": "c154c3e",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc9cdefc5031daab56d7723e9c8edfa8c8"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "17 Hours 2 Minutes",
+    "durationSeconds": 61320,
+    "departureTime": "Sunday, April 8th 2018, 09:18am",
+    "arrivalTime": "Monday, April 9th 2018, 11:30pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1239",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 8th 2018, 09:18am",
+        "arrivingAt": "George Bush Intercontinental, IAH, Houston, United States",
+        "arrivalTime": "Sunday, April 8th 2018, 10:55am"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH173",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "George Bush Intercontinental, IAH, Houston, United States",
+        "departureTime": "Sunday, April 8th 2018, 11:30am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, April 9th 2018, 03:20pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "6 Hours 35 Minutes",
+        "durationSeconds": 23700,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, April 9th 2018, 06:55pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, April 9th 2018, 11:30pm"
+      }
+    ],
+    "flight_key": "2a1acbc",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cce11fd072f8772322db8d42780d7d7e42"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Saturday, March 10th 2018, 09:30am",
+    "arrivalTime": "Monday, March 12th 2018, 12:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA272",
+        "duration": "2 Hours 56 Minutes",
+        "durationSeconds": 10560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 10th 2018, 09:30am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Saturday, March 10th 2018, 11:26am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA881",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Saturday, March 10th 2018, 12:20pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, March 11th 2018, 04:40pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "7 Hours ",
+        "durationSeconds": 25200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, March 11th 2018, 07:05pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, March 12th 2018, 12:05am"
+      }
+    ],
+    "flight_key": "7575afb",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4ccf1405f6505a1ae428a6e8250e05cee65"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Saturday, March 31st 2018, 09:15am",
+    "arrivalTime": "Sunday, April 1st 2018, 11:30pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 31st 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Saturday, March 31st 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Saturday, March 31st 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, April 1st 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "6 Hours 35 Minutes",
+        "durationSeconds": 23700,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, April 1st 2018, 06:55pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Sunday, April 1st 2018, 11:30pm"
+      }
+    ],
+    "flight_key": "bb11e2f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4ccbdd3fc1a1af3b7127f8734b375d8285b"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "17 Hours 10 Minutes",
+    "durationSeconds": 61800,
+    "departureTime": "Sunday, April 8th 2018, 09:15am",
+    "arrivalTime": "Monday, April 9th 2018, 11:30pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA221",
+        "duration": "2 Hours 6 Minutes",
+        "durationSeconds": 7560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, April 8th 2018, 09:15am",
+        "arrivingAt": "Washington Dulles Intl, IAD, Washington, United States",
+        "arrivalTime": "Sunday, April 8th 2018, 11:21am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA803",
+        "duration": "13 Hours 50 Minutes",
+        "durationSeconds": 49800,
+        "departingFrom": "Washington Dulles Intl, IAD, Washington, United States",
+        "departureTime": "Sunday, April 8th 2018, 12:35pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, April 9th 2018, 03:25pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "6 Hours 35 Minutes",
+        "durationSeconds": 23700,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, April 9th 2018, 06:55pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, April 9th 2018, 11:30pm"
+      }
+    ],
+    "flight_key": "2c77fed",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc33b1ffa17341b5af13c8f693c43ead0a"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "17 Hours 23 Minutes",
+    "durationSeconds": 62580,
+    "departureTime": "Saturday, March 31st 2018, 07:32am",
+    "arrivalTime": "Sunday, April 1st 2018, 11:30pm",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 31st 2018, 07:32am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Saturday, March 31st 2018, 10:09am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "13 Hours 55 Minutes",
+        "durationSeconds": 50100,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Saturday, March 31st 2018, 11:00am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, April 1st 2018, 01:55pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "6 Hours 35 Minutes",
+        "durationSeconds": 23700,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, April 1st 2018, 06:55pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Sunday, April 1st 2018, 11:30pm"
+      }
+    ],
+    "flight_key": "a299ba7",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc4c538248dd1c6153c4b503ead67696f9"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "17 Hours 28 Minutes",
+    "durationSeconds": 62880,
+    "departureTime": "Saturday, March 10th 2018, 07:32am",
+    "arrivalTime": "Monday, March 12th 2018, 12:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 10th 2018, 07:32am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Saturday, March 10th 2018, 10:09am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Saturday, March 10th 2018, 10:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, March 11th 2018, 03:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "7 Hours ",
+        "durationSeconds": 25200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, March 11th 2018, 07:05pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, March 12th 2018, 12:05am"
+      }
+    ],
+    "flight_key": "708f43f",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4ccb7aedec77814365b840cff71b107aeca"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "18 Hours 10 Minutes",
+    "durationSeconds": 65400,
+    "departureTime": "Saturday, March 17th 2018, 09:30am",
+    "arrivalTime": "Monday, March 19th 2018, 12:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA272",
+        "duration": "2 Hours 56 Minutes",
+        "durationSeconds": 10560,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 17th 2018, 09:30am",
+        "arrivingAt": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "arrivalTime": "Saturday, March 17th 2018, 11:26am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA881",
+        "duration": "13 Hours 20 Minutes",
+        "durationSeconds": 48000,
+        "departingFrom": "Chicago Ohare Intl, ORD, Chicago, United States",
+        "departureTime": "Saturday, March 17th 2018, 01:20pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, March 18th 2018, 04:40pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "7 Hours ",
+        "durationSeconds": 25200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, March 18th 2018, 07:05pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, March 19th 2018, 12:05am"
+      }
+    ],
+    "flight_key": "daee661",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc5258ca58daccf4a813d6fef83d270d4a"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "18 Hours 28 Minutes",
+    "durationSeconds": 66480,
+    "departureTime": "Saturday, March 17th 2018, 07:32am",
+    "arrivalTime": "Monday, March 19th 2018, 12:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA1649",
+        "duration": "2 Hours 37 Minutes",
+        "durationSeconds": 9420,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 17th 2018, 07:32am",
+        "arrivingAt": "Newark Liberty Intl, EWR, Newark, United States",
+        "arrivalTime": "Saturday, March 17th 2018, 10:09am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA79",
+        "duration": "14 Hours 10 Minutes",
+        "durationSeconds": 51000,
+        "departingFrom": "Newark Liberty Intl, EWR, Newark, United States",
+        "departureTime": "Saturday, March 17th 2018, 11:50am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, March 18th 2018, 03:00pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "7 Hours ",
+        "durationSeconds": 25200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, March 18th 2018, 07:05pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, March 19th 2018, 12:05am"
+      }
+    ],
+    "flight_key": "b4c2611",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc31b27dcc7680fdd1b4bb1905e75fca9b"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "18 Hours 59 Minutes",
+    "durationSeconds": 68340,
+    "departureTime": "Saturday, March 10th 2018, 06:11am",
+    "arrivalTime": "Monday, March 12th 2018, 12:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA759",
+        "duration": "6 Hours 5 Minutes",
+        "durationSeconds": 21900,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 10th 2018, 06:11am",
+        "arrivingAt": "San Francisco Intl, SFO, San Francisco, United States",
+        "arrivalTime": "Saturday, March 10th 2018, 09:16am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA837",
+        "duration": "11 Hours 15 Minutes",
+        "durationSeconds": 40500,
+        "departingFrom": "San Francisco Intl, SFO, San Francisco, United States",
+        "departureTime": "Saturday, March 10th 2018, 10:55am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, March 11th 2018, 03:10pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "7 Hours ",
+        "durationSeconds": 25200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, March 11th 2018, 07:05pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, March 12th 2018, 12:05am"
+      }
+    ],
+    "flight_key": "6b2f0cf",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc014aea8de205f62adfb8de46491c5810"
+  },
+  {
+    "price": "$1331.42",
+    "price_pennies": 133142,
+    "duration": "19 Hours 59 Minutes",
+    "durationSeconds": 71940,
+    "departureTime": "Saturday, March 17th 2018, 06:11am",
+    "arrivalTime": "Monday, March 19th 2018, 12:05am",
+    "legs": [
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA759",
+        "duration": "6 Hours 5 Minutes",
+        "durationSeconds": 21900,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 17th 2018, 06:11am",
+        "arrivingAt": "San Francisco Intl, SFO, San Francisco, United States",
+        "arrivalTime": "Saturday, March 17th 2018, 09:16am"
+      },
+      {
+        "airline": "United Airlines",
+        "flightCode": "UA837",
+        "duration": "11 Hours 15 Minutes",
+        "durationSeconds": 40500,
+        "departingFrom": "San Francisco Intl, SFO, San Francisco, United States",
+        "departureTime": "Saturday, March 17th 2018, 11:55am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, March 18th 2018, 03:10pm"
+      },
+      {
+        "airline": "All Nippon Airways",
+        "flightCode": "NH833",
+        "duration": "7 Hours ",
+        "durationSeconds": 25200,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, March 18th 2018, 07:05pm",
+        "arrivingAt": "Tansonnhat Intl, SGN, Ho Chi Minh City, Vietnam",
+        "arrivalTime": "Monday, March 19th 2018, 12:05am"
+      }
+    ],
+    "flight_key": "a1cea91",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca540e6f8bdf28cb2076bcefebea6e9b4cc1ef0d049c403aebec9b9c8a92412af99"
+  },
+  {
+    "price": "$1377.92",
+    "price_pennies": 137792,
+    "duration": "17 Hours 20 Minutes",
+    "durationSeconds": 62400,
+    "departureTime": "Saturday, March 24th 2018, 08:15am",
+    "arrivalTime": "Sunday, March 25th 2018, 09:10pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2813",
+        "duration": "1 Hour 33 Minutes",
+        "durationSeconds": 5580,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, March 24th 2018, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Saturday, March 24th 2018, 09:48am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 19 Minutes",
+        "durationSeconds": 51540,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Saturday, March 24th 2018, 11:16am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, March 25th 2018, 02:35pm"
+      },
+      {
+        "airline": "China Airlines",
+        "flightCode": "CI105",
+        "duration": "3 Hours 50 Minutes",
+        "durationSeconds": 13800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Sunday, March 25th 2018, 06:20pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Sunday, March 25th 2018, 09:10pm"
+      }
+    ],
+    "flight_key": "258761c",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca51681d0c675d7642696a6eb8fd516c2dfbab32434a335c5a99a8cfd44c63cbb22"
+  },
+  {
+    "price": "$1430.34",
+    "price_pennies": 143034,
+    "duration": "16 Hours 42 Minutes",
+    "durationSeconds": 60120,
+    "departureTime": "Sunday, March 25th 2018, 08:18am",
+    "arrivalTime": "Monday, March 26th 2018, 09:10pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2552",
+        "duration": "2 Hours 43 Minutes",
+        "durationSeconds": 9780,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 25th 2018, 08:18am",
+        "arrivingAt": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "arrivalTime": "Sunday, March 25th 2018, 11:01am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL275",
+        "duration": "12 Hours 55 Minutes",
+        "durationSeconds": 46500,
+        "departingFrom": "Detroit Metro Wayne Co, DTW, Detroit, United States",
+        "departureTime": "Sunday, March 25th 2018, 12:05pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 26th 2018, 02:00pm"
+      },
+      {
+        "airline": "China Airlines",
+        "flightCode": "CI105",
+        "duration": "3 Hours 50 Minutes",
+        "durationSeconds": 13800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 26th 2018, 06:20pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Monday, March 26th 2018, 09:10pm"
+      }
+    ],
+    "flight_key": "780041d",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e038e3007ce6a6566ab8d8617c9e6c83ca2ec6080e7c023c34cf9a49c8cf9697ca51681d0c675d7642696a6eb8fd516c2dfeb7794b4917cea8b2e72d1b9de57c22a"
+  },
+  {
+    "price": "$1430.34",
+    "price_pennies": 143034,
+    "duration": "17 Hours 20 Minutes",
+    "durationSeconds": 62400,
+    "departureTime": "Sunday, March 25th 2018, 08:15am",
+    "arrivalTime": "Monday, March 26th 2018, 10:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL2813",
+        "duration": "1 Hour 35 Minutes",
+        "durationSeconds": 5700,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 25th 2018, 08:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Sunday, March 25th 2018, 09:50am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 19 Minutes",
+        "durationSeconds": 51540,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Sunday, March 25th 2018, 11:16am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 26th 2018, 02:35pm"
+      },
+      {
+        "airline": "China Airlines",
+        "flightCode": "CI109",
+        "duration": "3 Hours 50 Minutes",
+        "durationSeconds": 13800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 26th 2018, 08:05pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Monday, March 26th 2018, 10:55pm"
+      }
+    ],
+    "flight_key": "1453e52",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca51681d0c675d7642696a6eb8fd516c2df57a0adcde6b1301764ee15519d7d74da"
+  },
+  {
+    "price": "$1430.34",
+    "price_pennies": 143034,
+    "duration": "18 Hours 20 Minutes",
+    "durationSeconds": 66000,
+    "departureTime": "Sunday, March 25th 2018, 07:15am",
+    "arrivalTime": "Monday, March 26th 2018, 10:55pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1651",
+        "duration": "1 Hour 40 Minutes",
+        "durationSeconds": 6000,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Sunday, March 25th 2018, 07:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Sunday, March 25th 2018, 08:55am"
+      },
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL295",
+        "duration": "14 Hours 19 Minutes",
+        "durationSeconds": 51540,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Sunday, March 25th 2018, 11:16am",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Monday, March 26th 2018, 02:35pm"
+      },
+      {
+        "airline": "China Airlines",
+        "flightCode": "CI109",
+        "duration": "3 Hours 50 Minutes",
+        "durationSeconds": 13800,
+        "departingFrom": "Narita Intl, NRT, Tokyo, Japan",
+        "departureTime": "Monday, March 26th 2018, 08:05pm",
+        "arrivingAt": "Taoyuan Intl, TPE, Taipei, Taiwan",
+        "arrivalTime": "Monday, March 26th 2018, 10:55pm"
+      }
+    ],
+    "flight_key": "59a5936",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e034642138d00543ad7147d53f987249feaec6080e7c023c34cf9a49c8cf9697ca51681d0c675d7642696a6eb8fd516c2dfb3513b678366f0fc2095d21cfb5345c3"
+  },
+  {
+    "price": "$1523.31",
+    "price_pennies": 152331,
+    "duration": "21 Hours 45 Minutes",
+    "durationSeconds": 78300,
+    "departureTime": "Saturday, April 14th 2018, 09:15am",
+    "arrivalTime": "Sunday, April 15th 2018, 08:00pm",
+    "legs": [
+      {
+        "airline": "Delta Air Lines",
+        "flightCode": "DL1818",
+        "duration": "1 Hour 29 Minutes",
+        "durationSeconds": 5340,
+        "departingFrom": "Orlando Intl, MCO, Orlando, United States",
+        "departureTime": "Saturday, April 14th 2018, 09:15am",
+        "arrivingAt": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "arrivalTime": "Saturday, April 14th 2018, 10:44am"
+      },
+      {
+        "airline": "Korean Air",
+        "flightCode": "KE36",
+        "duration": "14 Hours 50 Minutes",
+        "durationSeconds": 53400,
+        "departingFrom": "Hartsfield Jackson Atlanta Intl, ATL, Atlanta, United States",
+        "departureTime": "Saturday, April 14th 2018, 12:20pm",
+        "arrivingAt": "Incheon Intl, ICN, Seoul, South Korea",
+        "arrivalTime": "Sunday, April 15th 2018, 04:10pm"
+      },
+      {
+        "airline": "Korean Air",
+        "flightCode": "KE1",
+        "duration": "2 Hours 20 Minutes",
+        "durationSeconds": 8400,
+        "departingFrom": "Incheon Intl, ICN, Seoul, South Korea",
+        "departureTime": "Sunday, April 15th 2018, 05:40pm",
+        "arrivingAt": "Narita Intl, NRT, Tokyo, Japan",
+        "arrivalTime": "Sunday, April 15th 2018, 08:00pm"
+      }
+    ],
+    "flight_key": "4c60eb9",
+    "flight_key_long": "a08fd4cf5f8ea556517385bece0c9e03c8011218809122f17ba625aadfa2fb41ec6080e7c023c34cf9a49c8cf9697ca5b1782de5884c4a2e86fbe4ab855606f4d291909a4241ee3371f3d80e4ea22170"
+  }
+]

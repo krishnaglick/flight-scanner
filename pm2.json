@@ -1,0 +1,17 @@
+{
+  "apps" : [{
+    "name"        : "flight-scanner",
+    "script"      : "ts-node",
+    "args"        : ["./src/index.ts"],
+    "node_args"   : "",
+    "merge_logs"  : true,
+    "cwd"         : "./",
+    "env": {
+        "NODE_ENV": "prod"
+    },
+    "watch" : ["src"],
+    "watch_options": {
+      "followSymlinks": false
+    }
+  }]
+}
